@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/static/css/main.ab4011c5.css",
-    "main.js": "/static/js/main.45a8ebdc.js",
-    "static/js/787.c1b0dde6.chunk.js": "/static/js/787.c1b0dde6.chunk.js",
-    "static/media/es_lassen.mp3": "/static/media/es_lassen.7af6bbf2dedcb467cc5a.mp3",
-    "static/media/dat_gleiche_feld.mp3": "/static/media/dat_gleiche_feld.0ca85c5fb0ee087287a5.mp3",
-    "static/media/chai_latte.mp3": "/static/media/chai_latte.6db725b110e8f984bfe3.mp3",
-    "static/media/heyhey.mp3": "/static/media/heyhey.2679f192b824c2147661.mp3",
-    "static/media/WazUp.mp3": "/static/media/WazUp.f86f6abd19bfc1ad7615.mp3",
-    "static/media/Bitconnect_No_No.mp3": "/static/media/Bitconnect_No_No.ec6f170db000c13e8cbc.mp3",
-    "static/media/ich_brauche_platz.mp3": "/static/media/ich_brauche_platz.a10520fd6e1c38faddac.mp3",
-    "static/media/5G.mp3": "/static/media/5G.bc39d09e370380c325f5.mp3",
-    "index.html": "/index.html",
-    "main.ab4011c5.css.map": "/static/css/main.ab4011c5.css.map",
-    "main.45a8ebdc.js.map": "/static/js/main.45a8ebdc.js.map",
-    "787.c1b0dde6.chunk.js.map": "/static/js/787.c1b0dde6.chunk.js.map"
+    "main.css": "./static/css/main.ab4011c5.css",
+    "main.js": "./static/js/main.6714b69d.js",
+    "static/js/787.c1b0dde6.chunk.js": "./static/js/787.c1b0dde6.chunk.js",
+    "static/media/es_lassen.mp3": "./static/media/es_lassen.7af6bbf2dedcb467cc5a.mp3",
+    "static/media/dat_gleiche_feld.mp3": "./static/media/dat_gleiche_feld.0ca85c5fb0ee087287a5.mp3",
+    "static/media/chai_latte.mp3": "./static/media/chai_latte.6db725b110e8f984bfe3.mp3",
+    "static/media/heyhey.mp3": "./static/media/heyhey.2679f192b824c2147661.mp3",
+    "static/media/WazUp.mp3": "./static/media/WazUp.f86f6abd19bfc1ad7615.mp3",
+    "static/media/Bitconnect_No_No.mp3": "./static/media/Bitconnect_No_No.ec6f170db000c13e8cbc.mp3",
+    "static/media/ich_brauche_platz.mp3": "./static/media/ich_brauche_platz.a10520fd6e1c38faddac.mp3",
+    "static/media/5G.mp3": "./static/media/5G.bc39d09e370380c325f5.mp3",
+    "index.html": "./index.html",
+    "main.ab4011c5.css.map": "./static/css/main.ab4011c5.css.map",
+    "main.6714b69d.js.map": "./static/js/main.6714b69d.js.map",
+    "787.c1b0dde6.chunk.js.map": "./static/js/787.c1b0dde6.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.ab4011c5.css",
-    "static/js/main.45a8ebdc.js"
+    "static/js/main.6714b69d.js"
   ]
 }
