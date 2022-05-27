@@ -15,8 +15,10 @@ const Buzzer = ({ title, soundFile }: BuzzerProps) => {
 	}
 
 	return (
-		<button onClick={() => play()} className="button text-lg">
-			<span>{title}</span>
+		<button onClick={() => play()} className="button text-sm">
+			<div>
+				<span>{title}</span>
+			</div>
 
 			<audio id={id} className="hidden">
 				<source src={soundFile} type="audio/mpeg" />
