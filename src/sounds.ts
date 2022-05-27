@@ -16,6 +16,18 @@ const sounds = [
 		title: "Ich brauche Platz!",
 		file: require("./static/soundfiles/ich_brauche_platz.mp3"),
 	},
+	{
+		title: "Bitconnect (No No No)",
+		file: require("./static/soundfiles/Bitconnect_No_No.mp3"),
+	},
+	{
+		title: "Bitconnect (Waz Up)",
+		file: require("./static/soundfiles/WazUp.mp3"),
+	},
+	{
+		title: "Bitconnect (Hey hey)",
+		file: require("./static/soundfiles/heyhey.mp3"),
+	},
 ];
 
 export default sounds;
