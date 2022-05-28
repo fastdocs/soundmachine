@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "./static/css/main.b6d35240.css",
-    "main.js": "./static/js/main.ccb19034.js",
+    "main.js": "./static/js/main.64a952da.js",
     "static/js/787.c1b0dde6.chunk.js": "./static/js/787.c1b0dde6.chunk.js",
     "static/media/es_lassen.mp3": "./static/media/es_lassen.7af6bbf2dedcb467cc5a.mp3",
     "static/media/dat_gleiche_feld.mp3": "./static/media/dat_gleiche_feld.0ca85c5fb0ee087287a5.mp3",
@@ -11,13 +11,17 @@
     "static/media/Bitconnect_No_No.mp3": "./static/media/Bitconnect_No_No.ec6f170db000c13e8cbc.mp3",
     "static/media/ich_brauche_platz.mp3": "./static/media/ich_brauche_platz.a10520fd6e1c38faddac.mp3",
     "static/media/5G.mp3": "./static/media/5G.bc39d09e370380c325f5.mp3",
+    "static/media/nicht-so-tief-rudiger.mp3": "./static/media/nicht-so-tief-rudiger.a463152315319e8bc73a.mp3",
+    "static/media/ich_hab_ganis_gemakt.mp3": "./static/media/ich_hab_ganis_gemakt.a07e690aba9839743efd.mp3",
+    "static/media/cr7_siuu.mp3": "./static/media/cr7_siuu.a22d67cdd45e8bbbb4c1.mp3",
+    "static/media/ich-muss-raus.mp3": "./static/media/ich-muss-raus.1b2335d7cf172d14c605.mp3",
     "index.html": "./index.html",
     "main.b6d35240.css.map": "./static/css/main.b6d35240.css.map",
-    "main.ccb19034.js.map": "./static/js/main.ccb19034.js.map",
+    "main.64a952da.js.map": "./static/js/main.64a952da.js.map",
     "787.c1b0dde6.chunk.js.map": "./static/js/787.c1b0dde6.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.b6d35240.css",
-    "static/js/main.ccb19034.js"
+    "static/js/main.64a952da.js"
   ]
 }
