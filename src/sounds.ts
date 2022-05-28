@@ -28,6 +28,22 @@ const sounds = [
 		title: "Bitconnect (Hey hey)",
 		file: require("./static/soundfiles/heyhey.mp3"),
 	},
+	{
+		title: "CR7 (Siuu)",
+		file: require("./static/soundfiles/cr7_siuu.mp3"),
+	},
+	{
+		title: "Ich muss raus",
+		file: require("./static/soundfiles/ich-muss-raus.mp3"),
+	},
+	{
+		title: "Ich hab ganis gemakt",
+		file: require("./static/soundfiles/ich_hab_ganis_gemakt.mp3"),
+	},
+	{
+		title: "Nicht so tief Rüdiger",
+		file: require("./static/soundfiles/nicht-so-tief-rudiger.mp3"),
+	},
 ];
 
 export default sounds;
