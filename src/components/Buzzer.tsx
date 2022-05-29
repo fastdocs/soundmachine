@@ -15,7 +15,7 @@ const Buzzer = ({ title, soundFile }: BuzzerProps) => {
 
 	return (
 		<button onClick={() => play()} className="button text-sm">
-			<div>
+			<div className="w-full truncate overflow-x-hidden">
 				<span>{title}</span>
 			</div>
 

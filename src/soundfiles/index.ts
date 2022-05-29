@@ -46,6 +46,38 @@ const sounds = [
 		title: "Nicht so tief Rüdiger",
 		file: getFile("nicht-so-tief-rudiger"),
 	},
+	{
+		title: "Okay let's go",
+		file: getFile("okay-lets-go"),
+	},
+	{
+		title: "TS - User disconnected",
+		file: getFile("teamspeak-disconnect"),
+	},
+	{
+		title: "Uwe ist auch dabei",
+		file: getFile("ich-bin-der-uwe-ich-bin-auch-dabei"),
+	},
+	{
+		title: "Was ist mit Karsten los",
+		file: getFile("was-ist-denn-mit-karsten-los"),
+	},
+	{
+		title: "Risiken und Nebenwirkungen",
+		file: getFile("zu-risiken-und-nebenwirkungen"),
+	},
+	{
+		title: "Der Looser",
+		file: getFile("einer-ist-immer-der-loser"),
+	},
+	{
+		title: "Do u speak germany?",
+		file: getFile("do-you-speak-germany"),
+	},
+	{
+		title: "Wer wird Millionär",
+		file: getFile("wer-wird-millionar"),
+	},
 ];
 
 export default sounds;
