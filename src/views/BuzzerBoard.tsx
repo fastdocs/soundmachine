@@ -1,5 +1,5 @@
 import Buzzer from "../components/Buzzer";
-import sounds from "../sounds";
+import sounds from "../soundfiles/index";
 
 function BuzzerBoard() {
 	return (

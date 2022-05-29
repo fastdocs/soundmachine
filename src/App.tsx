@@ -1,12 +1,8 @@
 import BuzzerBoard from "./views/BuzzerBoard";
-import "./App.css";
+import "./styles/App.css";
 
 function App() {
-	return (
-		<>
-			<BuzzerBoard />
-		</>
-	);
+	return <BuzzerBoard />;
 }
 
 export default App;
