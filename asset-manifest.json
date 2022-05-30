@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "./static/css/main.c428a2a6.css",
-    "main.js": "./static/js/main.f83eecbf.js",
+    "main.js": "./static/js/main.fdab890f.js",
     "static/js/787.c1b0dde6.chunk.js": "./static/js/787.c1b0dde6.chunk.js",
     "static/media/okay-lets-go.mp3": "./static/media/okay-lets-go.0b65f860e9b2dfff8d73.mp3",
     "static/media/do-you-speak-germany.mp3": "./static/media/do-you-speak-germany.bf277ed02efc7a1dd34a.mp3",
@@ -18,6 +18,7 @@
     "static/media/wer-wird-millionar.mp3": "./static/media/wer-wird-millionar.744433d0d4c4228ffc58.mp3",
     "static/media/nicht-so-tief-rudiger.mp3": "./static/media/nicht-so-tief-rudiger.a463152315319e8bc73a.mp3",
     "static/media/ich_hab_ganis_gemakt.mp3": "./static/media/ich_hab_ganis_gemakt.a07e690aba9839743efd.mp3",
+    "static/media/click-nice.mp3": "./static/media/click-nice.67ab95db52bc169670fe.mp3",
     "static/media/ich-bin-der-uwe-ich-bin-auch-dabei.mp3": "./static/media/ich-bin-der-uwe-ich-bin-auch-dabei.7a48685545c81e5b1b92.mp3",
     "static/media/teamspeak-disconnect.mp3": "./static/media/teamspeak-disconnect.3353d9f927c203cb9182.mp3",
     "static/media/was-ist-denn-mit-karsten-los.mp3": "./static/media/was-ist-denn-mit-karsten-los.8e7e1f2a37ed2e6cc419.mp3",
@@ -25,11 +26,11 @@
     "static/media/ich-muss-raus.mp3": "./static/media/ich-muss-raus.1b2335d7cf172d14c605.mp3",
     "index.html": "./index.html",
     "main.c428a2a6.css.map": "./static/css/main.c428a2a6.css.map",
-    "main.f83eecbf.js.map": "./static/js/main.f83eecbf.js.map",
+    "main.fdab890f.js.map": "./static/js/main.fdab890f.js.map",
     "787.c1b0dde6.chunk.js.map": "./static/js/787.c1b0dde6.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c428a2a6.css",
-    "static/js/main.f83eecbf.js"
+    "static/js/main.fdab890f.js"
   ]
 }
