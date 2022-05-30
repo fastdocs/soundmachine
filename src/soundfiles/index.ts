@@ -78,6 +78,10 @@ const sounds = [
 		title: "Wer wird Millionär",
 		file: getFile("wer-wird-millionar"),
 	},
+	{
+		title: "Nice!",
+		file: getFile("click-nice"),
+	},
 ];
 
 export default sounds;
