@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "./static/css/main.c428a2a6.css",
-    "main.js": "./static/js/main.6eaa26be.js",
+    "main.js": "./static/js/main.6bcb5b15.js",
     "static/js/787.c1b0dde6.chunk.js": "./static/js/787.c1b0dde6.chunk.js",
     "static/media/okay-lets-go.mp3": "./static/media/okay-lets-go.0b65f860e9b2dfff8d73.mp3",
     "static/media/do-you-speak-germany.mp3": "./static/media/do-you-speak-germany.bf277ed02efc7a1dd34a.mp3",
@@ -13,8 +13,13 @@
     "static/media/WazUp.mp3": "./static/media/WazUp.f86f6abd19bfc1ad7615.mp3",
     "static/media/Bitconnect_No_No.mp3": "./static/media/Bitconnect_No_No.ec6f170db000c13e8cbc.mp3",
     "static/media/ich_brauche_platz.mp3": "./static/media/ich_brauche_platz.a10520fd6e1c38faddac.mp3",
+    "static/media/fre-don-sam.mp3": "./static/media/fre-don-sam.a8fcca927bdeffc58733.mp3",
+    "static/media/verstehen-sie.mp3": "./static/media/verstehen-sie.7be9986be0c23b532ee4.mp3",
+    "static/media/heute-ruhig.mp3": "./static/media/heute-ruhig.0d313c303bedd63cbd8a.mp3",
     "static/media/zu-risiken-und-nebenwirkungen.mp3": "./static/media/zu-risiken-und-nebenwirkungen.e50757e10befa75ce923.mp3",
+    "static/media/mon-zu-mit.mp3": "./static/media/mon-zu-mit.5d0164a41a2004a9948f.mp3",
     "static/media/5G.mp3": "./static/media/5G.bc39d09e370380c325f5.mp3",
+    "static/media/Son-zu-die.mp3": "./static/media/Son-zu-die.2de55ab0fcfec7a37c5c.mp3",
     "static/media/wer-wird-millionar.mp3": "./static/media/wer-wird-millionar.744433d0d4c4228ffc58.mp3",
     "static/media/nicht-so-tief-rudiger.mp3": "./static/media/nicht-so-tief-rudiger.a463152315319e8bc73a.mp3",
     "static/media/ich_hab_ganis_gemakt.mp3": "./static/media/ich_hab_ganis_gemakt.a07e690aba9839743efd.mp3",
@@ -26,11 +31,11 @@
     "static/media/ich-muss-raus.mp3": "./static/media/ich-muss-raus.1b2335d7cf172d14c605.mp3",
     "index.html": "./index.html",
     "main.c428a2a6.css.map": "./static/css/main.c428a2a6.css.map",
-    "main.6eaa26be.js.map": "./static/js/main.6eaa26be.js.map",
+    "main.6bcb5b15.js.map": "./static/js/main.6bcb5b15.js.map",
     "787.c1b0dde6.chunk.js.map": "./static/js/787.c1b0dde6.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c428a2a6.css",
-    "static/js/main.6eaa26be.js"
+    "static/js/main.6bcb5b15.js"
   ]
 }
