@@ -82,6 +82,26 @@ const sounds = [
 		title: "Nice!",
 		file: getFile("click-nice"),
 	},
+	{
+		title: "Mo. zu Mit.",
+		file: getFile("mon-zu-mit"),
+	},
+	{
+		title: "So. zu Di.",
+		file: getFile("Son-zu-die"),
+	},
+	{
+		title: "Fr. Do. Sa.",
+		file: getFile("fre-don-sam"),
+	},
+	{
+		title: "Heute ruhig",
+		file: getFile("heute-ruhig"),
+	},
+	{
+		title: "Verstehen Sie?",
+		file: getFile("verstehen-sie"),
+	},
 ];
 
 export default sounds;
