@@ -1,16 +1,18 @@
 {
   "files": {
     "main.css": "./static/css/main.c428a2a6.css",
-    "main.js": "./static/js/main.2176426e.js",
+    "main.js": "./static/js/main.d2e404e9.js",
     "static/js/787.c1b0dde6.chunk.js": "./static/js/787.c1b0dde6.chunk.js",
     "static/media/okay-lets-go.mp3": "./static/media/okay-lets-go.0b65f860e9b2dfff8d73.mp3",
     "static/media/do-you-speak-germany.mp3": "./static/media/do-you-speak-germany.bf277ed02efc7a1dd34a.mp3",
     "static/media/einer-ist-immer-der-loser.mp3": "./static/media/einer-ist-immer-der-loser.7cff3d69cc427e7ba059.mp3",
     "static/media/es_lassen.mp3": "./static/media/es_lassen.7af6bbf2dedcb467cc5a.mp3",
+    "static/media/wartemusik-trompete.mp3": "./static/media/wartemusik-trompete.c2c954d78bf333eb98d4.mp3",
     "static/media/dat_gleiche_feld.mp3": "./static/media/dat_gleiche_feld.0ca85c5fb0ee087287a5.mp3",
     "static/media/chai_latte.mp3": "./static/media/chai_latte.6db725b110e8f984bfe3.mp3",
     "static/media/heyhey.mp3": "./static/media/heyhey.2679f192b824c2147661.mp3",
     "static/media/WazUp.mp3": "./static/media/WazUp.f86f6abd19bfc1ad7615.mp3",
+    "static/media/woran-hats-gelegen.mp3": "./static/media/woran-hats-gelegen.3e833c3aa542a1bee029.mp3",
     "static/media/Bitconnect_No_No.mp3": "./static/media/Bitconnect_No_No.ec6f170db000c13e8cbc.mp3",
     "static/media/ich_brauche_platz.mp3": "./static/media/ich_brauche_platz.a10520fd6e1c38faddac.mp3",
     "static/media/fre-don-sam.mp3": "./static/media/fre-don-sam.a8fcca927bdeffc58733.mp3",
@@ -26,16 +28,17 @@
     "static/media/click-nice.mp3": "./static/media/click-nice.67ab95db52bc169670fe.mp3",
     "static/media/ich-bin-der-uwe-ich-bin-auch-dabei.mp3": "./static/media/ich-bin-der-uwe-ich-bin-auch-dabei.7a48685545c81e5b1b92.mp3",
     "static/media/teamspeak-disconnect.mp3": "./static/media/teamspeak-disconnect.3353d9f927c203cb9182.mp3",
+    "static/media/computer-sagt-nein.mp3": "./static/media/computer-sagt-nein.ec88c40c13d4c3172dc8.mp3",
     "static/media/was-ist-denn-mit-karsten-los.mp3": "./static/media/was-ist-denn-mit-karsten-los.8e7e1f2a37ed2e6cc419.mp3",
     "static/media/cr7_siuu.mp3": "./static/media/cr7_siuu.a22d67cdd45e8bbbb4c1.mp3",
     "static/media/ich-muss-raus.mp3": "./static/media/ich-muss-raus.1b2335d7cf172d14c605.mp3",
     "index.html": "./index.html",
     "main.c428a2a6.css.map": "./static/css/main.c428a2a6.css.map",
-    "main.2176426e.js.map": "./static/js/main.2176426e.js.map",
+    "main.d2e404e9.js.map": "./static/js/main.d2e404e9.js.map",
     "787.c1b0dde6.chunk.js.map": "./static/js/787.c1b0dde6.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c428a2a6.css",
-    "static/js/main.2176426e.js"
+    "static/js/main.d2e404e9.js"
   ]
 }
