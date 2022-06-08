@@ -102,6 +102,18 @@ const sounds = [
 		title: "Verstehen Sie?",
 		file: getFile("verstehen-sie"),
 	},
+	{
+		title: "Woran hat et jelegen?",
+		file: getFile("woran-hats-gelegen"),
+	},
+	{
+		title: "Computer sagt NEIN",
+		file: getFile("computer-sagt-nein"),
+	},
+	{
+		title: "Wartemusik",
+		file: getFile("wartemusik-trompete"),
+	},
 ];
 
 export default sounds;
