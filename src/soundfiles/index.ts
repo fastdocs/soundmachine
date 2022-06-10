@@ -114,6 +114,38 @@ const sounds = [
 		title: "Wartemusik",
 		file: getFile("wartemusik-trompete"),
 	},
+	{
+		title: "Robert - Abitur",
+		file: getFile("abitur"),
+	},
+	{
+		title: "Robert - Ende aus",
+		file: getFile("ende-aus-nikolaus"),
+	},
+	{
+		title: "Robert - Ernste Lage",
+		file: getFile("ernste-lage"),
+	},
+	{
+		title: "Robert - Ha, ha, ha",
+		file: getFile("ha-ha-ha"),
+	},
+	{
+		title: "Robert - Prost!",
+		file: getFile("prost"),
+	},
+	{
+		title: "Robert - Regeln befolgen!",
+		file: getFile("regeln-befolgen"),
+	},
+	{
+		title: "Robert - Ski-Urlaub abgesagt",
+		file: getFile("ski-urlaub-abgesagt"),
+	},
+	{
+		title: "Robert - Spaghetti Carbonara",
+		file: getFile("spaghettie-carbonara"),
+	}
 ];
 
 export default sounds;
