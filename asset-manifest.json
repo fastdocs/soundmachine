@@ -1,12 +1,14 @@
 {
   "files": {
     "main.css": "./static/css/main.c428a2a6.css",
-    "main.js": "./static/js/main.6b136efd.js",
+    "main.js": "./static/js/main.a89c0cd4.js",
     "static/js/787.c1b0dde6.chunk.js": "./static/js/787.c1b0dde6.chunk.js",
     "static/media/okay-lets-go.mp3": "./static/media/okay-lets-go.0b65f860e9b2dfff8d73.mp3",
     "static/media/do-you-speak-germany.mp3": "./static/media/do-you-speak-germany.bf277ed02efc7a1dd34a.mp3",
+    "static/media/spaghettie-carbonara.mp3": "./static/media/spaghettie-carbonara.1f43dca1fdd336ff34b5.mp3",
     "static/media/einer-ist-immer-der-loser.mp3": "./static/media/einer-ist-immer-der-loser.7cff3d69cc427e7ba059.mp3",
     "static/media/es_lassen.mp3": "./static/media/es_lassen.7af6bbf2dedcb467cc5a.mp3",
+    "static/media/ski-urlaub-abgesagt.mp3": "./static/media/ski-urlaub-abgesagt.d24f569c863ced70d5cb.mp3",
     "static/media/wartemusik-trompete.mp3": "./static/media/wartemusik-trompete.c2c954d78bf333eb98d4.mp3",
     "static/media/dat_gleiche_feld.mp3": "./static/media/dat_gleiche_feld.0ca85c5fb0ee087287a5.mp3",
     "static/media/chai_latte.mp3": "./static/media/chai_latte.6db725b110e8f984bfe3.mp3",
@@ -15,11 +17,16 @@
     "static/media/woran-hats-gelegen.mp3": "./static/media/woran-hats-gelegen.3e833c3aa542a1bee029.mp3",
     "static/media/Bitconnect_No_No.mp3": "./static/media/Bitconnect_No_No.ec6f170db000c13e8cbc.mp3",
     "static/media/ich_brauche_platz.mp3": "./static/media/ich_brauche_platz.a10520fd6e1c38faddac.mp3",
+    "static/media/regeln-befolgen.mp3": "./static/media/regeln-befolgen.c767080b64fbae5d03a2.mp3",
     "static/media/fre-don-sam.mp3": "./static/media/fre-don-sam.a8fcca927bdeffc58733.mp3",
     "static/media/verstehen-sie.mp3": "./static/media/verstehen-sie.7be9986be0c23b532ee4.mp3",
     "static/media/heute-ruhig.mp3": "./static/media/heute-ruhig.0d313c303bedd63cbd8a.mp3",
+    "static/media/ha-ha-ha.mp3": "./static/media/ha-ha-ha.83ff8f959a348c5f0b89.mp3",
+    "static/media/abitur.mp3": "./static/media/abitur.072b8ddbed70ff1a8ca3.mp3",
+    "static/media/ernste-lage.mp3": "./static/media/ernste-lage.d3dbbeb2661d3346c4c6.mp3",
     "static/media/zu-risiken-und-nebenwirkungen.mp3": "./static/media/zu-risiken-und-nebenwirkungen.e50757e10befa75ce923.mp3",
     "static/media/mon-zu-mit.mp3": "./static/media/mon-zu-mit.5d0164a41a2004a9948f.mp3",
+    "static/media/ende-aus-nikolaus.mp3": "./static/media/ende-aus-nikolaus.f8327568adeed6f05c4f.mp3",
     "static/media/5G.mp3": "./static/media/5G.bc39d09e370380c325f5.mp3",
     "static/media/Son-zu-die.mp3": "./static/media/Son-zu-die.2de55ab0fcfec7a37c5c.mp3",
     "static/media/wer-wird-millionar.mp3": "./static/media/wer-wird-millionar.744433d0d4c4228ffc58.mp3",
@@ -29,16 +36,17 @@
     "static/media/ich-bin-der-uwe-ich-bin-auch-dabei.mp3": "./static/media/ich-bin-der-uwe-ich-bin-auch-dabei.7a48685545c81e5b1b92.mp3",
     "static/media/teamspeak-disconnect.mp3": "./static/media/teamspeak-disconnect.3353d9f927c203cb9182.mp3",
     "static/media/computer-sagt-nein.mp3": "./static/media/computer-sagt-nein.ec88c40c13d4c3172dc8.mp3",
+    "static/media/prost.mp3": "./static/media/prost.44da6cd95aec1e5a36f5.mp3",
     "static/media/was-ist-denn-mit-karsten-los.mp3": "./static/media/was-ist-denn-mit-karsten-los.8e7e1f2a37ed2e6cc419.mp3",
     "static/media/cr7_siuu.mp3": "./static/media/cr7_siuu.a22d67cdd45e8bbbb4c1.mp3",
     "static/media/ich-muss-raus.mp3": "./static/media/ich-muss-raus.1b2335d7cf172d14c605.mp3",
     "index.html": "./index.html",
     "main.c428a2a6.css.map": "./static/css/main.c428a2a6.css.map",
-    "main.6b136efd.js.map": "./static/js/main.6b136efd.js.map",
+    "main.a89c0cd4.js.map": "./static/js/main.a89c0cd4.js.map",
     "787.c1b0dde6.chunk.js.map": "./static/js/787.c1b0dde6.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c428a2a6.css",
-    "static/js/main.6b136efd.js"
+    "static/js/main.a89c0cd4.js"
   ]
 }
