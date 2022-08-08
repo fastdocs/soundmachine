@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "./static/css/main.c428a2a6.css",
-    "main.js": "./static/js/main.2bf041f0.js",
+    "main.js": "./static/js/main.02a291ab.js",
     "static/js/787.c1b0dde6.chunk.js": "./static/js/787.c1b0dde6.chunk.js",
     "static/media/okay-lets-go.mp3": "./static/media/okay-lets-go.0b65f860e9b2dfff8d73.mp3",
     "static/media/do-you-speak-germany.mp3": "./static/media/do-you-speak-germany.bf277ed02efc7a1dd34a.mp3",
@@ -17,6 +17,7 @@
     "static/media/woran-hats-gelegen.mp3": "./static/media/woran-hats-gelegen.3e833c3aa542a1bee029.mp3",
     "static/media/Bitconnect_No_No.mp3": "./static/media/Bitconnect_No_No.ec6f170db000c13e8cbc.mp3",
     "static/media/ich_brauche_platz.mp3": "./static/media/ich_brauche_platz.a10520fd6e1c38faddac.mp3",
+    "static/media/feierabend-pommersche.mp3": "./static/media/feierabend-pommersche.77e5827ec9cf0f0a5f04.mp3",
     "static/media/regeln-befolgen.mp3": "./static/media/regeln-befolgen.c767080b64fbae5d03a2.mp3",
     "static/media/fre-don-sam.mp3": "./static/media/fre-don-sam.a8fcca927bdeffc58733.mp3",
     "static/media/verstehen-sie.mp3": "./static/media/verstehen-sie.7be9986be0c23b532ee4.mp3",
@@ -42,11 +43,11 @@
     "static/media/ich-muss-raus.mp3": "./static/media/ich-muss-raus.1b2335d7cf172d14c605.mp3",
     "index.html": "./index.html",
     "main.c428a2a6.css.map": "./static/css/main.c428a2a6.css.map",
-    "main.2bf041f0.js.map": "./static/js/main.2bf041f0.js.map",
+    "main.02a291ab.js.map": "./static/js/main.02a291ab.js.map",
     "787.c1b0dde6.chunk.js.map": "./static/js/787.c1b0dde6.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c428a2a6.css",
-    "static/js/main.2bf041f0.js"
+    "static/js/main.02a291ab.js"
   ]
 }
