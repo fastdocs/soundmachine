@@ -145,6 +145,10 @@ const sounds = [
 	{
 		title: "Robert - Spaghetti Carbonara",
 		file: getFile("spaghettie-carbonara"),
+	},
+	{
+		title: "Feierabend wie das duftet...",
+		file: getFile("feierabend-pommersche"),
 	}
 ];
 
