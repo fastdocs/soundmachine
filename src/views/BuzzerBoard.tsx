@@ -18,7 +18,7 @@ function BuzzerBoard() {
 		const showAllButtons = () => {
 			buttons.forEach((button) => {
 				const element = button as HTMLButtonElement;
-				return (element.style.display = "block");
+				return (element.style.display = "");
 			});
 		};
 
@@ -28,7 +28,7 @@ function BuzzerBoard() {
 				const elementTitle = button.textContent;
 
 				if (elementTitle?.toLowerCase().includes(search.toLowerCase())) {
-					return (element.style.display = "block");
+					return (element.style.display = "");
 				}
 			});
 		};
@@ -50,9 +50,10 @@ function BuzzerBoard() {
 		<>
 			<main className="grid gap-4 p-8 lg:p-16">
 				<input
-					type="search"
+					type="text"
+					inputMode="search"
 					placeholder="Sounds durchsuchen"
-					className="w-full p-4 border-2 rounded-md text-base bg-slate-50"
+					className="appearance-none w-full p-3 rounded-none border-b text-slate-500 font-semibold border-slate-300 dark:border-slate-500 text-base bg-transparent focus-visible:outline-none"
 					onChange={(e) => setSearch(e.target.value)}
 				/>
 
