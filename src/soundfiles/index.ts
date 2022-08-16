@@ -153,6 +153,10 @@ const sounds = [
 	{
 		title: "There is the flavour!",
 		file: getFile("fuckin-flavour"),
+	},
+	{
+		title: "Psycho Violine",
+		file: getFile("psycho-violine"),
 	}
 ];
 
