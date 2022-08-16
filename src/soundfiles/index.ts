@@ -149,7 +149,7 @@ const sounds = [
 	{
 		title: "Feierabend wie das duftet...",
 		file: getFile("feierabend-pommersche"),
-	}
+	},
 	{
 		title: "There is the flavour!",
 		file: getFile("fuckin-flavour"),
