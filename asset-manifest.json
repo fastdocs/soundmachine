@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "./static/css/main.13799f0e.css",
-    "main.js": "./static/js/main.33f9107c.js",
+    "main.js": "./static/js/main.37838209.js",
     "static/js/787.c1b0dde6.chunk.js": "./static/js/787.c1b0dde6.chunk.js",
     "static/media/okay-lets-go.mp3": "./static/media/okay-lets-go.0b65f860e9b2dfff8d73.mp3",
     "static/media/do-you-speak-germany.mp3": "./static/media/do-you-speak-germany.bf277ed02efc7a1dd34a.mp3",
@@ -17,6 +17,7 @@
     "static/media/woran-hats-gelegen.mp3": "./static/media/woran-hats-gelegen.3e833c3aa542a1bee029.mp3",
     "static/media/Bitconnect_No_No.mp3": "./static/media/Bitconnect_No_No.ec6f170db000c13e8cbc.mp3",
     "static/media/ich_brauche_platz.mp3": "./static/media/ich_brauche_platz.a10520fd6e1c38faddac.mp3",
+    "static/media/psycho-violine.mp3": "./static/media/psycho-violine.d09a38aae09064921bf8.mp3",
     "static/media/fuckin-flavour.mp3": "./static/media/fuckin-flavour.0d88233d6f80a9d77928.mp3",
     "static/media/feierabend-pommersche.mp3": "./static/media/feierabend-pommersche.77e5827ec9cf0f0a5f04.mp3",
     "static/media/regeln-befolgen.mp3": "./static/media/regeln-befolgen.c767080b64fbae5d03a2.mp3",
@@ -44,11 +45,11 @@
     "static/media/ich-muss-raus.mp3": "./static/media/ich-muss-raus.1b2335d7cf172d14c605.mp3",
     "index.html": "./index.html",
     "main.13799f0e.css.map": "./static/css/main.13799f0e.css.map",
-    "main.33f9107c.js.map": "./static/js/main.33f9107c.js.map",
+    "main.37838209.js.map": "./static/js/main.37838209.js.map",
     "787.c1b0dde6.chunk.js.map": "./static/js/787.c1b0dde6.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.13799f0e.css",
-    "static/js/main.33f9107c.js"
+    "static/js/main.37838209.js"
   ]
 }
