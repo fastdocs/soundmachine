@@ -163,7 +163,7 @@ const sounds = [
 		file: getFile("angela-merkel-du-fresse"),
 	},
 	{
-		title: "Mach ma Shisha auf, Shisha soll auf sein!",
+		title: "Shisha soll auf sein!",
 		file: getFile("shisha-soll-auf-sein"),
 	}
 ];
