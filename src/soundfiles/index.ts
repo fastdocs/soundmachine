@@ -157,6 +157,14 @@ const sounds = [
 	{
 		title: "Psycho Violine",
 		file: getFile("psycho-violine"),
+	},
+	{
+		title: "Merkel du Fresse",
+		file: getFile("angela-merkel-du-fresse"),
+	},
+	{
+		title: "Mach ma Shisha auf, Shisha soll auf sein!",
+		file: getFile("shisha-soll-auf-sein"),
 	}
 ];
 
