@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "./static/css/main.13799f0e.css",
-    "main.js": "./static/js/main.8328df5b.js",
+    "main.js": "./static/js/main.3f1f14fc.js",
     "static/js/787.c1b0dde6.chunk.js": "./static/js/787.c1b0dde6.chunk.js",
     "static/media/okay-lets-go.mp3": "./static/media/okay-lets-go.0b65f860e9b2dfff8d73.mp3",
     "static/media/do-you-speak-germany.mp3": "./static/media/do-you-speak-germany.bf277ed02efc7a1dd34a.mp3",
@@ -12,6 +12,7 @@
     "static/media/wartemusik-trompete.mp3": "./static/media/wartemusik-trompete.c2c954d78bf333eb98d4.mp3",
     "static/media/dat_gleiche_feld.mp3": "./static/media/dat_gleiche_feld.0ca85c5fb0ee087287a5.mp3",
     "static/media/chai_latte.mp3": "./static/media/chai_latte.6db725b110e8f984bfe3.mp3",
+    "static/media/shisha-soll-auf-sein.mp3": "./static/media/shisha-soll-auf-sein.67c2cba97313b714f6ab.mp3",
     "static/media/heyhey.mp3": "./static/media/heyhey.2679f192b824c2147661.mp3",
     "static/media/WazUp.mp3": "./static/media/WazUp.f86f6abd19bfc1ad7615.mp3",
     "static/media/woran-hats-gelegen.mp3": "./static/media/woran-hats-gelegen.3e833c3aa542a1bee029.mp3",
@@ -26,6 +27,7 @@
     "static/media/heute-ruhig.mp3": "./static/media/heute-ruhig.0d313c303bedd63cbd8a.mp3",
     "static/media/ha-ha-ha.mp3": "./static/media/ha-ha-ha.83ff8f959a348c5f0b89.mp3",
     "static/media/abitur.mp3": "./static/media/abitur.072b8ddbed70ff1a8ca3.mp3",
+    "static/media/angela-merkel-du-fresse.mp3": "./static/media/angela-merkel-du-fresse.871727a352f0c86aca1c.mp3",
     "static/media/ernste-lage.mp3": "./static/media/ernste-lage.d3dbbeb2661d3346c4c6.mp3",
     "static/media/zu-risiken-und-nebenwirkungen.mp3": "./static/media/zu-risiken-und-nebenwirkungen.e50757e10befa75ce923.mp3",
     "static/media/mon-zu-mit.mp3": "./static/media/mon-zu-mit.5d0164a41a2004a9948f.mp3",
@@ -45,11 +47,11 @@
     "static/media/ich-muss-raus.mp3": "./static/media/ich-muss-raus.1b2335d7cf172d14c605.mp3",
     "index.html": "./index.html",
     "main.13799f0e.css.map": "./static/css/main.13799f0e.css.map",
-    "main.8328df5b.js.map": "./static/js/main.8328df5b.js.map",
+    "main.3f1f14fc.js.map": "./static/js/main.3f1f14fc.js.map",
     "787.c1b0dde6.chunk.js.map": "./static/js/787.c1b0dde6.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.13799f0e.css",
-    "static/js/main.8328df5b.js"
+    "static/js/main.3f1f14fc.js"
   ]
 }
