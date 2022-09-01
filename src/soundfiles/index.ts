@@ -2,6 +2,18 @@ import getFile from "../utility/getFile";
 
 const sounds = [
 	{
+		title: "Besser su hause bleiben!",
+		file: getFile("besser-zu-hause"),
+	},
+	{
+		title: "Warum Straße!?",
+		file: getFile("warum-strasse"),
+	},
+	{
+		title: "Verpiss dik!",
+		file: getFile("verpiss-dik"),
+	},
+	{
 		title: "5G brauchen wir!",
 		file: getFile("5G"),
 	},
@@ -165,7 +177,7 @@ const sounds = [
 	{
 		title: "Shisha soll auf sein!",
 		file: getFile("shisha-soll-auf-sein"),
-	}
+	},
 ];
 
 export default sounds;
