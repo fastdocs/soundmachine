@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "./static/css/main.13799f0e.css",
-    "main.js": "./static/js/main.f823acd8.js",
+    "main.js": "./static/js/main.6664c518.js",
     "static/js/787.c1b0dde6.chunk.js": "./static/js/787.c1b0dde6.chunk.js",
     "static/media/okay-lets-go.mp3": "./static/media/okay-lets-go.0b65f860e9b2dfff8d73.mp3",
     "static/media/do-you-speak-germany.mp3": "./static/media/do-you-speak-germany.bf277ed02efc7a1dd34a.mp3",
@@ -38,20 +38,23 @@
     "static/media/nicht-so-tief-rudiger.mp3": "./static/media/nicht-so-tief-rudiger.a463152315319e8bc73a.mp3",
     "static/media/ich_hab_ganis_gemakt.mp3": "./static/media/ich_hab_ganis_gemakt.a07e690aba9839743efd.mp3",
     "static/media/click-nice.mp3": "./static/media/click-nice.67ab95db52bc169670fe.mp3",
+    "static/media/besser-zu-hause.mp3": "./static/media/besser-zu-hause.76856fa3d8418648a4d0.mp3",
     "static/media/ich-bin-der-uwe-ich-bin-auch-dabei.mp3": "./static/media/ich-bin-der-uwe-ich-bin-auch-dabei.7a48685545c81e5b1b92.mp3",
     "static/media/teamspeak-disconnect.mp3": "./static/media/teamspeak-disconnect.3353d9f927c203cb9182.mp3",
     "static/media/computer-sagt-nein.mp3": "./static/media/computer-sagt-nein.ec88c40c13d4c3172dc8.mp3",
     "static/media/prost.mp3": "./static/media/prost.44da6cd95aec1e5a36f5.mp3",
+    "static/media/warum-strasse.mp3": "./static/media/warum-strasse.51516d25ac9d20dee8fe.mp3",
     "static/media/was-ist-denn-mit-karsten-los.mp3": "./static/media/was-ist-denn-mit-karsten-los.8e7e1f2a37ed2e6cc419.mp3",
     "static/media/cr7_siuu.mp3": "./static/media/cr7_siuu.a22d67cdd45e8bbbb4c1.mp3",
     "static/media/ich-muss-raus.mp3": "./static/media/ich-muss-raus.1b2335d7cf172d14c605.mp3",
+    "static/media/verpiss-dik.mp3": "./static/media/verpiss-dik.3d50629d4c681b826e81.mp3",
     "index.html": "./index.html",
     "main.13799f0e.css.map": "./static/css/main.13799f0e.css.map",
-    "main.f823acd8.js.map": "./static/js/main.f823acd8.js.map",
+    "main.6664c518.js.map": "./static/js/main.6664c518.js.map",
     "787.c1b0dde6.chunk.js.map": "./static/js/787.c1b0dde6.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.13799f0e.css",
-    "static/js/main.f823acd8.js"
+    "static/js/main.6664c518.js"
   ]
 }
