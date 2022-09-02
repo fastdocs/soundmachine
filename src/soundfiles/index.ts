@@ -2,6 +2,34 @@ import getFile from "../utility/getFile";
 
 const sounds = [
 	{
+		title: "Die Scheiße",
+		file: getFile("die-scheisse"),
+	},
+	{
+		title: "Es reicht langsam!",
+		file: getFile("es-reicht-langsam"),
+	},
+	{
+		title: "Kein Bandmaß!?",
+		file: getFile("kein-bandmass"),
+	},
+	{
+		title: "Kein Lust oder wat!?",
+		file: getFile("keine-lust"),
+	},
+	{
+		title: "Nach Hause gehen",
+		file: getFile("nach-hause"),
+	},
+	{
+		title: "Nichts-Könner",
+		file: getFile("nichts-koenner"),
+	},
+	{
+		title: "Zu dumm?",
+		file: getFile("zu-dumm"),
+	},
+	{
 		title: "Besser su hause bleiben!",
 		file: getFile("besser-zu-hause"),
 	},
