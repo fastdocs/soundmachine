@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "./static/css/main.bdaf1c55.css",
-    "main.js": "./static/js/main.1da793dc.js",
+    "main.js": "./static/js/main.8d868adb.js",
     "static/js/787.c1b0dde6.chunk.js": "./static/js/787.c1b0dde6.chunk.js",
     "static/media/okay-lets-go.mp3": "./static/media/okay-lets-go.0b65f860e9b2dfff8d73.mp3",
     "static/media/do-you-speak-germany.mp3": "./static/media/do-you-speak-germany.bf277ed02efc7a1dd34a.mp3",
@@ -13,15 +13,21 @@
     "static/media/dat_gleiche_feld.mp3": "./static/media/dat_gleiche_feld.0ca85c5fb0ee087287a5.mp3",
     "static/media/chai_latte.mp3": "./static/media/chai_latte.6db725b110e8f984bfe3.mp3",
     "static/media/shisha-soll-auf-sein.mp3": "./static/media/shisha-soll-auf-sein.67c2cba97313b714f6ab.mp3",
+    "static/media/zu-dumm.mp3": "./static/media/zu-dumm.8d916ba81e997f022eb9.mp3",
     "static/media/heyhey.mp3": "./static/media/heyhey.2679f192b824c2147661.mp3",
     "static/media/WazUp.mp3": "./static/media/WazUp.f86f6abd19bfc1ad7615.mp3",
     "static/media/woran-hats-gelegen.mp3": "./static/media/woran-hats-gelegen.3e833c3aa542a1bee029.mp3",
+    "static/media/nichts-koenner.mp3": "./static/media/nichts-koenner.ab26891f89db2e59537c.mp3",
     "static/media/Bitconnect_No_No.mp3": "./static/media/Bitconnect_No_No.ec6f170db000c13e8cbc.mp3",
     "static/media/ich_brauche_platz.mp3": "./static/media/ich_brauche_platz.a10520fd6e1c38faddac.mp3",
     "static/media/psycho-violine.mp3": "./static/media/psycho-violine.d09a38aae09064921bf8.mp3",
     "static/media/fuckin-flavour.mp3": "./static/media/fuckin-flavour.0d88233d6f80a9d77928.mp3",
+    "static/media/keine-lust.mp3": "./static/media/keine-lust.3c66e6f0b1ae5a929e6f.mp3",
+    "static/media/die-scheisse.mp3": "./static/media/die-scheisse.bba4e4201a74f234f7e1.mp3",
     "static/media/feierabend-pommersche.mp3": "./static/media/feierabend-pommersche.77e5827ec9cf0f0a5f04.mp3",
+    "static/media/nach-hause.mp3": "./static/media/nach-hause.71d29d535d6bdb57e4e5.mp3",
     "static/media/regeln-befolgen.mp3": "./static/media/regeln-befolgen.c767080b64fbae5d03a2.mp3",
+    "static/media/kein-bandmass.mp3": "./static/media/kein-bandmass.de3267208a4f94fabf99.mp3",
     "static/media/fre-don-sam.mp3": "./static/media/fre-don-sam.a8fcca927bdeffc58733.mp3",
     "static/media/verstehen-sie.mp3": "./static/media/verstehen-sie.7be9986be0c23b532ee4.mp3",
     "static/media/heute-ruhig.mp3": "./static/media/heute-ruhig.0d313c303bedd63cbd8a.mp3",
@@ -31,6 +37,7 @@
     "static/media/ernste-lage.mp3": "./static/media/ernste-lage.d3dbbeb2661d3346c4c6.mp3",
     "static/media/zu-risiken-und-nebenwirkungen.mp3": "./static/media/zu-risiken-und-nebenwirkungen.e50757e10befa75ce923.mp3",
     "static/media/mon-zu-mit.mp3": "./static/media/mon-zu-mit.5d0164a41a2004a9948f.mp3",
+    "static/media/es-reicht-langsam.mp3": "./static/media/es-reicht-langsam.697095ffabffb618f1f2.mp3",
     "static/media/ende-aus-nikolaus.mp3": "./static/media/ende-aus-nikolaus.f8327568adeed6f05c4f.mp3",
     "static/media/5G.mp3": "./static/media/5G.bc39d09e370380c325f5.mp3",
     "static/media/Son-zu-die.mp3": "./static/media/Son-zu-die.2de55ab0fcfec7a37c5c.mp3",
@@ -50,11 +57,11 @@
     "static/media/verpiss-dik.mp3": "./static/media/verpiss-dik.3d50629d4c681b826e81.mp3",
     "index.html": "./index.html",
     "main.bdaf1c55.css.map": "./static/css/main.bdaf1c55.css.map",
-    "main.1da793dc.js.map": "./static/js/main.1da793dc.js.map",
+    "main.8d868adb.js.map": "./static/js/main.8d868adb.js.map",
     "787.c1b0dde6.chunk.js.map": "./static/js/787.c1b0dde6.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.bdaf1c55.css",
-    "static/js/main.1da793dc.js"
+    "static/js/main.8d868adb.js"
   ]
 }
