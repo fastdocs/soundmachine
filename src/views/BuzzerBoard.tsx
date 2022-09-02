@@ -1,10 +1,5 @@
-import {
-	Crosshair,
-	FileSearch,
-	MagnifyingGlass,
-	XCircle,
-} from "phosphor-react";
-import { useEffect, useId, useState } from "react";
+import { XCircle } from "phosphor-react";
+import { useEffect, useState } from "react";
 import Buzzer from "../components/Buzzer";
 import sounds from "../soundfiles/index";
 
