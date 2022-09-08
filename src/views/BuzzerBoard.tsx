@@ -70,13 +70,35 @@ function BuzzerBoard() {
 					)}
 				</div>
 
-				<div className="grid md:grid-cols-2 lg:grid-cols-4 gap-4 p-4 lg:p-8">
+				{sounds.map((category, i) => {
+					return (
+						<div className="grid p-4 lg:p-8 gap-4" key={i}>
+							<h2 className="font-bold text-slate-500 dark:text-slate-400">
+								{category.categoryTitle}
+							</h2>
+
+							<div className="grid md:grid-cols-2 lg:grid-cols-4 gap-4">
+								{category.sounds.map((sound, i) => {
+									return (
+										<Buzzer
+											title={sound.title}
+											soundFile={sound.file}
+											key={i}
+										/>
+									);
+								})}
+							</div>
+						</div>
+					);
+				})}
+
+				{/* <div className="grid md:grid-cols-2 lg:grid-cols-4 gap-4 p-4 lg:p-8">
 					{sounds.map((sound, i) => {
 						return (
 							<Buzzer title={sound.title} soundFile={sound.file} key={i} />
 						);
 					})}
-				</div>
+				</div> */}
 
 				<div className="text-center p-8 text-slate-500">
 					<small>
