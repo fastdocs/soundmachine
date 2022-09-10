@@ -1,5 +1,5 @@
 import { XCircle } from "phosphor-react";
-import { useEffect, useState } from "react";
+import { Fragment, useEffect, useState } from "react";
 import Buzzer from "../components/Buzzer";
 import sounds from "../soundfiles/index";
 
@@ -7,9 +7,17 @@ function BuzzerBoard() {
 	let [search, setSearch] = useState("");
 
 	const searchForSound = () => {
-		const buttons = document.querySelectorAll("main button");
+		const buttons = document.querySelectorAll(
+			'main button[data-name="buzzer"]'
+		);
+		const categoryTitles = document.querySelectorAll("main h2");
 
 		const hideAllButton = () => {
+			categoryTitles.forEach((categoryTitle) => {
+				const element = categoryTitle as HTMLButtonElement;
+				return (element.style.display = "none");
+			});
+
 			buttons.forEach((button) => {
 				const element = button as HTMLButtonElement;
 				return (element.style.display = "none");
@@ -17,6 +25,11 @@ function BuzzerBoard() {
 		};
 
 		const showAllButtons = () => {
+			categoryTitles.forEach((categoryTitle) => {
+				const element = categoryTitle as HTMLButtonElement;
+				return (element.style.display = "");
+			});
+
 			buttons.forEach((button) => {
 				const element = button as HTMLButtonElement;
 				return (element.style.display = "");
@@ -61,82 +74,96 @@ function BuzzerBoard() {
 					/>
 
 					{search && (
-						<XCircle
-							weight="fill"
-							size={16}
-							className="absolute right-0 top-0 m-5 lg:mx-9 lg:my-7 text-slate-500 dark:text-slate-400"
+						<button
 							onClick={() => setSearch("")}
-						/>
+							className="absolute right-0 top-0 p-5 lg:px-9 lg:py-7 text-slate-500 dark:text-slate-400"
+						>
+							<XCircle weight="fill" size={16} />
+						</button>
 					)}
 				</div>
 
 				<div className="grid md:grid-cols-2 lg:grid-cols-4 gap-4 p-4 lg:p-8">
-					{sounds.map((sound, i) => {
+					{sounds.map((category, i) => {
 						return (
-							<Buzzer title={sound.title} soundFile={sound.file} key={i} />
+							<Fragment key={i}>
+								<h2 className="col-span-full font-bold text-slate-500 dark:text-slate-400 mt-4 first:mt-0">
+									{category.title}
+								</h2>
+
+								{category.sounds.map((sound, i) => {
+									return (
+										<Buzzer
+											title={sound.title}
+											soundFile={sound.file}
+											key={i}
+										/>
+									);
+								})}
+							</Fragment>
 						);
 					})}
 				</div>
-
-				<div className="text-center p-8 text-slate-500">
-					<small>
-						<b>
-							Made with 💙 by{" "}
-							<a href="https://www.fastdocs.de" className="underline">
-								Fastdocs
-							</a>
-						</b>
-
-						<ul className="flex flex-col gap-2 md:flex-row justify-center mt-2">
-							<li>
-								<a
-									href="https://www.linkedin.com/company/fastdocs-de-gmbh"
-									target="_blank"
-									rel="noreferrer"
-								>
-									LinkedIn
-								</a>
-							</li>
-							<li>
-								<a
-									href="https://www.instagram.com/fastdocs.de/"
-									target="_blank"
-									rel="noreferrer"
-								>
-									Instagram
-								</a>
-							</li>
-							<li>
-								<a
-									href="https://www.facebook.com/fastdocs.de/"
-									target="_blank"
-									rel="noreferrer"
-								>
-									Facebook
-								</a>
-							</li>
-							<li>
-								<a
-									href="https://www.youtube.com/channel/UCR-_bM4vCpftNKvYA3q9GjA/featured"
-									target="_blank"
-									rel="noreferrer"
-								>
-									Youtube
-								</a>
-							</li>
-							<li>
-								<a
-									href="https://twitter.com/fastdocsDE"
-									target="_blank"
-									rel="noreferrer"
-								>
-									Twitter
-								</a>
-							</li>
-						</ul>
-					</small>
-				</div>
 			</main>
+
+			<footer className="text-center p-8 text-slate-500">
+				<small>
+					<b>
+						Made with 💙 by{" "}
+						<a href="https://www.fastdocs.de" className="underline">
+							Fastdocs
+						</a>
+					</b>
+
+					<ul className="flex flex-col gap-2 md:flex-row justify-center mt-2">
+						<li>
+							<a
+								href="https://www.linkedin.com/company/fastdocs-de-gmbh"
+								target="_blank"
+								rel="noreferrer"
+							>
+								LinkedIn
+							</a>
+						</li>
+						<li>
+							<a
+								href="https://www.instagram.com/fastdocs.de/"
+								target="_blank"
+								rel="noreferrer"
+							>
+								Instagram
+							</a>
+						</li>
+						<li>
+							<a
+								href="https://www.facebook.com/fastdocs.de/"
+								target="_blank"
+								rel="noreferrer"
+							>
+								Facebook
+							</a>
+						</li>
+						<li>
+							<a
+								href="https://www.youtube.com/channel/UCR-_bM4vCpftNKvYA3q9GjA/featured"
+								target="_blank"
+								rel="noreferrer"
+							>
+								Youtube
+							</a>
+						</li>
+						<li>
+							<a
+								href="https://twitter.com/fastdocsDE"
+								target="_blank"
+								rel="noreferrer"
+							>
+								Twitter
+							</a>
+						</li>
+					</ul>
+				</small>
+			</footer>
 		</>
 	);
 }
