@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "./static/css/main.5843996a.css",
-    "main.js": "./static/js/main.8cb789f3.js",
+    "main.js": "./static/js/main.7b353fab.js",
     "static/js/787.c1b0dde6.chunk.js": "./static/js/787.c1b0dde6.chunk.js",
     "static/media/okay-lets-go.mp3": "./static/media/okay-lets-go.0b65f860e9b2dfff8d73.mp3",
     "static/media/do-you-speak-germany.mp3": "./static/media/do-you-speak-germany.bf277ed02efc7a1dd34a.mp3",
@@ -17,6 +17,7 @@
     "static/media/heyhey.mp3": "./static/media/heyhey.2679f192b824c2147661.mp3",
     "static/media/WazUp.mp3": "./static/media/WazUp.f86f6abd19bfc1ad7615.mp3",
     "static/media/woran-hats-gelegen.mp3": "./static/media/woran-hats-gelegen.3e833c3aa542a1bee029.mp3",
+    "static/media/markenlaptop.mp3": "./static/media/markenlaptop.818196f306c8cf408b44.mp3",
     "static/media/nichts-koenner.mp3": "./static/media/nichts-koenner.ab26891f89db2e59537c.mp3",
     "static/media/Bitconnect_No_No.mp3": "./static/media/Bitconnect_No_No.ec6f170db000c13e8cbc.mp3",
     "static/media/ich_brauche_platz.mp3": "./static/media/ich_brauche_platz.a10520fd6e1c38faddac.mp3",
@@ -57,11 +58,11 @@
     "static/media/verpiss-dik.mp3": "./static/media/verpiss-dik.3d50629d4c681b826e81.mp3",
     "index.html": "./index.html",
     "main.5843996a.css.map": "./static/css/main.5843996a.css.map",
-    "main.8cb789f3.js.map": "./static/js/main.8cb789f3.js.map",
+    "main.7b353fab.js.map": "./static/js/main.7b353fab.js.map",
     "787.c1b0dde6.chunk.js.map": "./static/js/787.c1b0dde6.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.5843996a.css",
-    "static/js/main.8cb789f3.js"
+    "static/js/main.7b353fab.js"
   ]
 }
