@@ -117,6 +117,10 @@ const sounds: SoundCategory[] = [
 		title: "Misc",
 		sounds: [
 			{
+				title: "Schöne Markenlaptop",
+				file: getFile("misc/markenlaptop"),
+			},
+			{
 				title: "Ich muss raus",
 				file: getFile("misc/ich-muss-raus"),
 			},
