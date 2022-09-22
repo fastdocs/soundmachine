@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "./static/css/main.5843996a.css",
-    "main.js": "./static/js/main.7b353fab.js",
+    "main.js": "./static/js/main.64dddd21.js",
     "static/js/787.c1b0dde6.chunk.js": "./static/js/787.c1b0dde6.chunk.js",
     "static/media/okay-lets-go.mp3": "./static/media/okay-lets-go.0b65f860e9b2dfff8d73.mp3",
     "static/media/do-you-speak-germany.mp3": "./static/media/do-you-speak-germany.bf277ed02efc7a1dd34a.mp3",
@@ -15,8 +15,10 @@
     "static/media/shisha-soll-auf-sein.mp3": "./static/media/shisha-soll-auf-sein.67c2cba97313b714f6ab.mp3",
     "static/media/zu-dumm.mp3": "./static/media/zu-dumm.8d916ba81e997f022eb9.mp3",
     "static/media/heyhey.mp3": "./static/media/heyhey.2679f192b824c2147661.mp3",
+    "static/media/trollolol.mp3": "./static/media/trollolol.619214c9950c7c0b06e9.mp3",
     "static/media/WazUp.mp3": "./static/media/WazUp.f86f6abd19bfc1ad7615.mp3",
     "static/media/woran-hats-gelegen.mp3": "./static/media/woran-hats-gelegen.3e833c3aa542a1bee029.mp3",
+    "static/media/mission-impossible.mp3": "./static/media/mission-impossible.8cbc6acbac076943de59.mp3",
     "static/media/markenlaptop.mp3": "./static/media/markenlaptop.818196f306c8cf408b44.mp3",
     "static/media/nichts-koenner.mp3": "./static/media/nichts-koenner.ab26891f89db2e59537c.mp3",
     "static/media/Bitconnect_No_No.mp3": "./static/media/Bitconnect_No_No.ec6f170db000c13e8cbc.mp3",
@@ -39,7 +41,9 @@
     "static/media/zu-risiken-und-nebenwirkungen.mp3": "./static/media/zu-risiken-und-nebenwirkungen.e50757e10befa75ce923.mp3",
     "static/media/mon-zu-mit.mp3": "./static/media/mon-zu-mit.5d0164a41a2004a9948f.mp3",
     "static/media/es-reicht-langsam.mp3": "./static/media/es-reicht-langsam.697095ffabffb618f1f2.mp3",
+    "static/media/in-die-fresse.mp3": "./static/media/in-die-fresse.af9206bea99e0a2511ab.mp3",
     "static/media/ende-aus-nikolaus.mp3": "./static/media/ende-aus-nikolaus.f8327568adeed6f05c4f.mp3",
+    "static/media/he-fucked-up.mp3": "./static/media/he-fucked-up.dceeca1bb7639946eccc.mp3",
     "static/media/5G.mp3": "./static/media/5G.bc39d09e370380c325f5.mp3",
     "static/media/Son-zu-die.mp3": "./static/media/Son-zu-die.2de55ab0fcfec7a37c5c.mp3",
     "static/media/wer-wird-millionar.mp3": "./static/media/wer-wird-millionar.744433d0d4c4228ffc58.mp3",
@@ -47,22 +51,26 @@
     "static/media/ich_hab_ganis_gemakt.mp3": "./static/media/ich_hab_ganis_gemakt.a07e690aba9839743efd.mp3",
     "static/media/click-nice.mp3": "./static/media/click-nice.67ab95db52bc169670fe.mp3",
     "static/media/besser-zu-hause.mp3": "./static/media/besser-zu-hause.76856fa3d8418648a4d0.mp3",
+    "static/media/a-few-moments-later.mp3": "./static/media/a-few-moments-later.17e6caa9e009b79a998d.mp3",
     "static/media/ich-bin-der-uwe-ich-bin-auch-dabei.mp3": "./static/media/ich-bin-der-uwe-ich-bin-auch-dabei.7a48685545c81e5b1b92.mp3",
     "static/media/teamspeak-disconnect.mp3": "./static/media/teamspeak-disconnect.3353d9f927c203cb9182.mp3",
+    "static/media/nein-doch-ohh.mp3": "./static/media/nein-doch-ohh.5d1bd14953185d1993d4.mp3",
     "static/media/computer-sagt-nein.mp3": "./static/media/computer-sagt-nein.ec88c40c13d4c3172dc8.mp3",
+    "static/media/bomb-has-been-planted.mp3": "./static/media/bomb-has-been-planted.af0dc2abcbc363185b69.mp3",
     "static/media/prost.mp3": "./static/media/prost.44da6cd95aec1e5a36f5.mp3",
     "static/media/warum-strasse.mp3": "./static/media/warum-strasse.51516d25ac9d20dee8fe.mp3",
     "static/media/was-ist-denn-mit-karsten-los.mp3": "./static/media/was-ist-denn-mit-karsten-los.8e7e1f2a37ed2e6cc419.mp3",
     "static/media/cr7_siuu.mp3": "./static/media/cr7_siuu.a22d67cdd45e8bbbb4c1.mp3",
     "static/media/ich-muss-raus.mp3": "./static/media/ich-muss-raus.1b2335d7cf172d14c605.mp3",
     "static/media/verpiss-dik.mp3": "./static/media/verpiss-dik.3d50629d4c681b826e81.mp3",
+    "static/media/was-machen-sachen.mp3": "./static/media/was-machen-sachen.4fd3e4903af9a29db682.mp3",
     "index.html": "./index.html",
     "main.5843996a.css.map": "./static/css/main.5843996a.css.map",
-    "main.7b353fab.js.map": "./static/js/main.7b353fab.js.map",
+    "main.64dddd21.js.map": "./static/js/main.64dddd21.js.map",
     "787.c1b0dde6.chunk.js.map": "./static/js/787.c1b0dde6.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.5843996a.css",
-    "static/js/main.7b353fab.js"
+    "static/js/main.64dddd21.js"
   ]
 }
