@@ -117,6 +117,34 @@ const sounds: SoundCategory[] = [
 		title: "Misc",
 		sounds: [
 			{
+				title: "A few moments later",
+				file: getFile("misc/a-few-moments-later"),
+			},
+			{
+				title: "Bomb has been planted",
+				file: getFile("misc/bomb-has-been-planted"),
+			},
+			{
+				title: "He fucked up",
+				file: getFile("misc/he-fucked-up"),
+			},
+			{
+				title: "Haut Euch in die Fresse",
+				file: getFile("misc/in-die-fresse"),
+			},
+			{
+				title: "Nein, Doch, Ohh",
+				file: getFile("misc/nein-doch-ohh"),
+			},
+			{
+				title: "Trollolo",
+				file: getFile("misc/trollolol"),
+			},
+			{
+				title: "Was machen sachen?",
+				file: getFile("misc/was-machen-sachen"),
+			},
+			{
 				title: "Schöne Markenlaptop",
 				file: getFile("misc/markenlaptop"),
 			},
@@ -185,6 +213,10 @@ const sounds: SoundCategory[] = [
 	{
 		title: "Jingles",
 		sounds: [
+			{
+				title: "Mission Impossible",
+				file: getFile("jingles/mission-impossible"),
+			},
 			{
 				title: "Wer wird Millionär",
 				file: getFile("jingles/wer-wird-millionar"),
