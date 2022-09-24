@@ -117,6 +117,14 @@ const sounds: SoundCategory[] = [
 		title: "Misc",
 		sounds: [
 			{
+				title: "I doubt it",
+				file: getFile("misc/i-doubt-it"),
+			},
+			{
+				title: "Nadine geht rauchen",
+				file: getFile("misc/nadine-geht-rauchen"),
+			},
+			{
 				title: "A few moments later",
 				file: getFile("misc/a-few-moments-later"),
 			},
@@ -213,6 +221,22 @@ const sounds: SoundCategory[] = [
 	{
 		title: "Jingles",
 		sounds: [
+			{
+				title: "Here comes the Money",
+				file: getFile("jingles/money"),
+			},
+			{
+				title: "CGN Airport",
+				file: getFile("jingles/airportbell-cgn"),
+			},
+			{
+				title: "Epic Sax Guy",
+				file: getFile("jingles/epic-saxmen"),
+			},
+			{
+				title: "Erika - Soldaten",
+				file: getFile("jingles/erika"),
+			},
 			{
 				title: "Mission Impossible",
 				file: getFile("jingles/mission-impossible"),
