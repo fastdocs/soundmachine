@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "./static/css/main.5843996a.css",
-    "main.js": "./static/js/main.64dddd21.js",
+    "main.js": "./static/js/main.cae99a66.js",
     "static/js/787.c1b0dde6.chunk.js": "./static/js/787.c1b0dde6.chunk.js",
     "static/media/okay-lets-go.mp3": "./static/media/okay-lets-go.0b65f860e9b2dfff8d73.mp3",
     "static/media/do-you-speak-germany.mp3": "./static/media/do-you-speak-germany.bf277ed02efc7a1dd34a.mp3",
@@ -9,9 +9,13 @@
     "static/media/einer-ist-immer-der-loser.mp3": "./static/media/einer-ist-immer-der-loser.7cff3d69cc427e7ba059.mp3",
     "static/media/es_lassen.mp3": "./static/media/es_lassen.7af6bbf2dedcb467cc5a.mp3",
     "static/media/ski-urlaub-abgesagt.mp3": "./static/media/ski-urlaub-abgesagt.d24f569c863ced70d5cb.mp3",
+    "static/media/erika.mp3": "./static/media/erika.cc8b8175f2ae9d4dd93a.mp3",
+    "static/media/i-doubt-it.mp3": "./static/media/i-doubt-it.c163c13d801894f67d7e.mp3",
+    "static/media/nadine-geht-rauchen.mp3": "./static/media/nadine-geht-rauchen.1f1dc6d96cc7b4ca9623.mp3",
     "static/media/wartemusik-trompete.mp3": "./static/media/wartemusik-trompete.c2c954d78bf333eb98d4.mp3",
     "static/media/dat_gleiche_feld.mp3": "./static/media/dat_gleiche_feld.0ca85c5fb0ee087287a5.mp3",
     "static/media/chai_latte.mp3": "./static/media/chai_latte.6db725b110e8f984bfe3.mp3",
+    "static/media/money.mp3": "./static/media/money.aafd501e98adbbb986a3.mp3",
     "static/media/shisha-soll-auf-sein.mp3": "./static/media/shisha-soll-auf-sein.67c2cba97313b714f6ab.mp3",
     "static/media/zu-dumm.mp3": "./static/media/zu-dumm.8d916ba81e997f022eb9.mp3",
     "static/media/heyhey.mp3": "./static/media/heyhey.2679f192b824c2147661.mp3",
@@ -19,6 +23,7 @@
     "static/media/WazUp.mp3": "./static/media/WazUp.f86f6abd19bfc1ad7615.mp3",
     "static/media/woran-hats-gelegen.mp3": "./static/media/woran-hats-gelegen.3e833c3aa542a1bee029.mp3",
     "static/media/mission-impossible.mp3": "./static/media/mission-impossible.8cbc6acbac076943de59.mp3",
+    "static/media/epic-saxmen.mp3": "./static/media/epic-saxmen.dd694a098ba40c74c919.mp3",
     "static/media/markenlaptop.mp3": "./static/media/markenlaptop.818196f306c8cf408b44.mp3",
     "static/media/nichts-koenner.mp3": "./static/media/nichts-koenner.ab26891f89db2e59537c.mp3",
     "static/media/Bitconnect_No_No.mp3": "./static/media/Bitconnect_No_No.ec6f170db000c13e8cbc.mp3",
@@ -39,6 +44,7 @@
     "static/media/angela-merkel-du-fresse.mp3": "./static/media/angela-merkel-du-fresse.871727a352f0c86aca1c.mp3",
     "static/media/ernste-lage.mp3": "./static/media/ernste-lage.d3dbbeb2661d3346c4c6.mp3",
     "static/media/zu-risiken-und-nebenwirkungen.mp3": "./static/media/zu-risiken-und-nebenwirkungen.e50757e10befa75ce923.mp3",
+    "static/media/airportbell-cgn.mp3": "./static/media/airportbell-cgn.1041138270269884c897.mp3",
     "static/media/mon-zu-mit.mp3": "./static/media/mon-zu-mit.5d0164a41a2004a9948f.mp3",
     "static/media/es-reicht-langsam.mp3": "./static/media/es-reicht-langsam.697095ffabffb618f1f2.mp3",
     "static/media/in-die-fresse.mp3": "./static/media/in-die-fresse.af9206bea99e0a2511ab.mp3",
@@ -66,11 +72,11 @@
     "static/media/was-machen-sachen.mp3": "./static/media/was-machen-sachen.4fd3e4903af9a29db682.mp3",
     "index.html": "./index.html",
     "main.5843996a.css.map": "./static/css/main.5843996a.css.map",
-    "main.64dddd21.js.map": "./static/js/main.64dddd21.js.map",
+    "main.cae99a66.js.map": "./static/js/main.cae99a66.js.map",
     "787.c1b0dde6.chunk.js.map": "./static/js/787.c1b0dde6.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.5843996a.css",
-    "static/js/main.64dddd21.js"
+    "static/js/main.cae99a66.js"
   ]
 }
