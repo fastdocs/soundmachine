@@ -1,4 +1,4 @@
-import { XCircle } from "phosphor-react";
+import { MagnifyingGlass, XCircle } from "phosphor-react";
 import { Fragment, useEffect, useState } from "react";
 import Buzzer from "../components/Buzzer";
 import sounds from "../soundfiles/index";
@@ -63,12 +63,18 @@ function BuzzerBoard() {
 	return (
 		<>
 			<main className="grid">
-				<div className="sticky top-0">
+				<div className="flex items-center bg-slate-100 dark:bg-slate-700 sticky top-0 border-b border-slate-300 dark:border-slate-800">
+					<MagnifyingGlass
+						weight="bold"
+						size={16}
+						className="absolute lg:ml-8 text-slate-500 dark:text-slate-400 ml-4 pointer-events-none"
+					/>
+
 					<input
 						type="text"
 						inputMode="search"
 						placeholder="Sounds durchsuchen"
-						className="appearance-none w-full p-4 lg:px-8 lg:py-6 rounded-none border-b text-slate-500 dark:text-slate-400 dark:placeholder:text-slate-500 font-semibold border-slate-300 bg-slate-100 dark:bg-slate-700 dark:border-slate-800 text-base focus-visible:outline-none"
+						className="appearance-none w-full p-4 px-12  bg-slate-100 dark:bg-slate-700 lg:py-6 lg:px-16 rounded-none  text-slate-500 dark:text-slate-400 dark:placeholder:text-slate-500 font-semibold    text-base focus-visible:outline-none"
 						onChange={(e) => setSearch(e.target.value)}
 						value={search}
 					/>
