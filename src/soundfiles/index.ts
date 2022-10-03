@@ -125,6 +125,14 @@ const sounds: SoundCategory[] = [
 				file: getFile("misc/kokain-und-crystal"),
 			},
 			{
+				title: "Erbärmliches Paket",
+				file: getFile("misc/erbaermliches-paket"),
+			},
+			{
+				title: "Lieber saufen als Arbeit",
+				file: getFile("misc/lieber-saufen-als-arbeit"),
+			},
+			{
 				title: "I doubt it",
 				file: getFile("misc/i-doubt-it"),
 			},
@@ -232,6 +240,10 @@ const sounds: SoundCategory[] = [
 			{
 				title: "Here comes the Money",
 				file: getFile("jingles/money"),
+			},
+			{
+				title: "Friday drinking",
+				file: getFile("jingles/its-friday"),
 			},
 			{
 				title: "CGN Airport",
