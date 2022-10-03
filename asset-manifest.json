@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "./static/css/main.5f83cefd.css",
-    "main.js": "./static/js/main.7a9cdfef.js",
+    "main.js": "./static/js/main.00564d02.js",
     "static/js/787.c1b0dde6.chunk.js": "./static/js/787.c1b0dde6.chunk.js",
     "static/media/okay-lets-go.mp3": "./static/media/okay-lets-go.0b65f860e9b2dfff8d73.mp3",
     "static/media/its-friday.mp3": "./static/media/its-friday.4a22f809595a5763c922.mp3",
@@ -24,6 +24,7 @@
     "static/media/trollolol.mp3": "./static/media/trollolol.619214c9950c7c0b06e9.mp3",
     "static/media/WazUp.mp3": "./static/media/WazUp.f86f6abd19bfc1ad7615.mp3",
     "static/media/woran-hats-gelegen.mp3": "./static/media/woran-hats-gelegen.3e833c3aa542a1bee029.mp3",
+    "static/media/erbaermliches-paket.mp3": "./static/media/erbaermliches-paket.e158b284a743a1be2d37.mp3",
     "static/media/mission-impossible.mp3": "./static/media/mission-impossible.8cbc6acbac076943de59.mp3",
     "static/media/epic-saxmen.mp3": "./static/media/epic-saxmen.dd694a098ba40c74c919.mp3",
     "static/media/markenlaptop.mp3": "./static/media/markenlaptop.818196f306c8cf408b44.mp3",
@@ -76,11 +77,11 @@
     "static/media/was-machen-sachen.mp3": "./static/media/was-machen-sachen.4fd3e4903af9a29db682.mp3",
     "index.html": "./index.html",
     "main.5f83cefd.css.map": "./static/css/main.5f83cefd.css.map",
-    "main.7a9cdfef.js.map": "./static/js/main.7a9cdfef.js.map",
+    "main.00564d02.js.map": "./static/js/main.00564d02.js.map",
     "787.c1b0dde6.chunk.js.map": "./static/js/787.c1b0dde6.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.5f83cefd.css",
-    "static/js/main.7a9cdfef.js"
+    "static/js/main.00564d02.js"
   ]
 }
