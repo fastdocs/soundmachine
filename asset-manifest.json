@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "./static/css/main.5f83cefd.css",
-    "main.js": "./static/js/main.81ede9b6.js",
+    "main.js": "./static/js/main.d7b3baf4.js",
     "static/js/787.c1b0dde6.chunk.js": "./static/js/787.c1b0dde6.chunk.js",
     "static/media/okay-lets-go.mp3": "./static/media/okay-lets-go.0b65f860e9b2dfff8d73.mp3",
     "static/media/do-you-speak-germany.mp3": "./static/media/do-you-speak-germany.bf277ed02efc7a1dd34a.mp3",
@@ -42,6 +42,7 @@
     "static/media/ha-ha-ha.mp3": "./static/media/ha-ha-ha.83ff8f959a348c5f0b89.mp3",
     "static/media/abitur.mp3": "./static/media/abitur.072b8ddbed70ff1a8ca3.mp3",
     "static/media/angela-merkel-du-fresse.mp3": "./static/media/angela-merkel-du-fresse.871727a352f0c86aca1c.mp3",
+    "static/media/kokain-und-crystal.mp3": "./static/media/kokain-und-crystal.d64787ad47ae65ef1070.mp3",
     "static/media/ernste-lage.mp3": "./static/media/ernste-lage.d3dbbeb2661d3346c4c6.mp3",
     "static/media/zu-risiken-und-nebenwirkungen.mp3": "./static/media/zu-risiken-und-nebenwirkungen.e50757e10befa75ce923.mp3",
     "static/media/airportbell-cgn.mp3": "./static/media/airportbell-cgn.1041138270269884c897.mp3",
@@ -59,6 +60,7 @@
     "static/media/besser-zu-hause.mp3": "./static/media/besser-zu-hause.76856fa3d8418648a4d0.mp3",
     "static/media/a-few-moments-later.mp3": "./static/media/a-few-moments-later.17e6caa9e009b79a998d.mp3",
     "static/media/ich-bin-der-uwe-ich-bin-auch-dabei.mp3": "./static/media/ich-bin-der-uwe-ich-bin-auch-dabei.7a48685545c81e5b1b92.mp3",
+    "static/media/canabis-reicht-nicht.mp3": "./static/media/canabis-reicht-nicht.fd1281e86dfca9778c36.mp3",
     "static/media/teamspeak-disconnect.mp3": "./static/media/teamspeak-disconnect.3353d9f927c203cb9182.mp3",
     "static/media/nein-doch-ohh.mp3": "./static/media/nein-doch-ohh.5d1bd14953185d1993d4.mp3",
     "static/media/computer-sagt-nein.mp3": "./static/media/computer-sagt-nein.ec88c40c13d4c3172dc8.mp3",
@@ -72,11 +74,11 @@
     "static/media/was-machen-sachen.mp3": "./static/media/was-machen-sachen.4fd3e4903af9a29db682.mp3",
     "index.html": "./index.html",
     "main.5f83cefd.css.map": "./static/css/main.5f83cefd.css.map",
-    "main.81ede9b6.js.map": "./static/js/main.81ede9b6.js.map",
+    "main.d7b3baf4.js.map": "./static/js/main.d7b3baf4.js.map",
     "787.c1b0dde6.chunk.js.map": "./static/js/787.c1b0dde6.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.5f83cefd.css",
-    "static/js/main.81ede9b6.js"
+    "static/js/main.d7b3baf4.js"
   ]
 }
