@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "./static/css/main.5f83cefd.css",
-    "main.js": "./static/js/main.0696ca74.js",
+    "main.js": "./static/js/main.3017084f.js",
     "static/js/787.c1b0dde6.chunk.js": "./static/js/787.c1b0dde6.chunk.js",
     "static/media/okay-lets-go.mp3": "./static/media/okay-lets-go.0b65f860e9b2dfff8d73.mp3",
     "static/media/its-friday.mp3": "./static/media/its-friday.4a22f809595a5763c922.mp3",
@@ -47,6 +47,7 @@
     "static/media/kein-bandmass.mp3": "./static/media/kein-bandmass.de3267208a4f94fabf99.mp3",
     "static/media/fre-don-sam.mp3": "./static/media/fre-don-sam.a8fcca927bdeffc58733.mp3",
     "static/media/08-dann-hab-ich-dich.mp3": "./static/media/08-dann-hab-ich-dich.95843dadf12f0824aaa4.mp3",
+    "static/media/nuggets-verbrennen.mp3": "./static/media/nuggets-verbrennen.b0ab838d4c05b43e0833.mp3",
     "static/media/verstehen-sie.mp3": "./static/media/verstehen-sie.7be9986be0c23b532ee4.mp3",
     "static/media/heute-ruhig.mp3": "./static/media/heute-ruhig.0d313c303bedd63cbd8a.mp3",
     "static/media/ha-ha-ha.mp3": "./static/media/ha-ha-ha.83ff8f959a348c5f0b89.mp3",
@@ -90,11 +91,11 @@
     "static/media/was-machen-sachen.mp3": "./static/media/was-machen-sachen.4fd3e4903af9a29db682.mp3",
     "index.html": "./index.html",
     "main.5f83cefd.css.map": "./static/css/main.5f83cefd.css.map",
-    "main.0696ca74.js.map": "./static/js/main.0696ca74.js.map",
+    "main.3017084f.js.map": "./static/js/main.3017084f.js.map",
     "787.c1b0dde6.chunk.js.map": "./static/js/787.c1b0dde6.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.5f83cefd.css",
-    "static/js/main.0696ca74.js"
+    "static/js/main.3017084f.js"
   ]
 }
