@@ -62,6 +62,63 @@ const sounds: SoundCategory[] = [
 		],
 	},
 	{
+		title: "Kir Royal",
+		sounds: [
+			{
+				title: "Ich kauf Dich einfach",
+				file: getFile("kir-royal/01-ich-kauf-dich-einfach"),
+			},
+			{
+				title: "Ich kauf Dir ne Villa",
+				file: getFile("kir-royal/02-ich-kauf-dir-ne-villa"),
+			},
+			{
+				title: "Nen Ferrarie",
+				file: getFile("kir-royal/03-nen-ferrarie"),
+			},
+			{
+				title: "5 Karat für Deine Frau",
+				file: getFile("kir-royal/04-jeden-tag-ein-5-karaeter"),
+			},
+			{
+				title: "Hinten und vorne rein",
+				file: getFile("kir-royal/05-hinten-und-vorne"),
+			},
+			{
+				title: "Mit geld zuscheißen",
+				file: getFile("kir-royal/06-mit-geld-zuscheissen"),
+			},
+			{
+				title: "Jeden Tag Cash",
+				file: getFile("kir-royal/07-jeden-tag-cash"),
+			},
+			{
+				title: "Dann hab ich Dich",
+				file: getFile("kir-royal/08-dann-hab-ich-dich"),
+			},
+			{
+				title: "Mein Knecht",
+				file: getFile("kir-royal/09-mein-knecht"),
+			},
+			{
+				title: "Ich mach, was ich will",
+				file: getFile("kir-royal/10-ich-mach-mit-dir-was-ich-will"),
+			},
+			{
+				title: "Ich bin Dir über",
+				file: getFile("kir-royal/11-ich-bin-dir-ueber"),
+			},
+			{
+				title: "Keine Chance",
+				file: getFile("kir-royal/12-keine-chance"),
+			},
+			{
+				title: "Begreifst Du nicht?",
+				file: getFile("kir-royal/13-begreifst-du-nicht"),
+			},
+		],
+	},
+	{
 		title: "Wolle Marco",
 		sounds: [
 			{
