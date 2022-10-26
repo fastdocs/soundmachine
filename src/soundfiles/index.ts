@@ -174,6 +174,10 @@ const sounds: SoundCategory[] = [
 		title: "Misc",
 		sounds: [
 			{
+				title: "Meine Nuggets verbrennen",
+				file: getFile("misc/nuggets-verbrennen"),
+			},
+			{
 				title: "Canabis reicht nicht",
 				file: getFile("misc/canabis-reicht-nicht"),
 			},
