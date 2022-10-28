@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "./static/css/main.5f83cefd.css",
-    "main.js": "./static/js/main.8e22af1d.js",
+    "main.js": "./static/js/main.22b33bf9.js",
     "static/js/787.c1b0dde6.chunk.js": "./static/js/787.c1b0dde6.chunk.js",
     "static/media/okay-lets-go.mp3": "./static/media/okay-lets-go.0b65f860e9b2dfff8d73.mp3",
     "static/media/its-friday.mp3": "./static/media/its-friday.4a22f809595a5763c922.mp3",
@@ -87,15 +87,16 @@
     "static/media/was-ist-denn-mit-karsten-los.mp3": "./static/media/was-ist-denn-mit-karsten-los.8e7e1f2a37ed2e6cc419.mp3",
     "static/media/cr7_siuu.mp3": "./static/media/cr7_siuu.a22d67cdd45e8bbbb4c1.mp3",
     "static/media/ich-muss-raus.mp3": "./static/media/ich-muss-raus.1b2335d7cf172d14c605.mp3",
+    "static/media/wallah-krise.mp3": "./static/media/wallah-krise.a7918c900105caa187b7.mp3",
     "static/media/verpiss-dik.mp3": "./static/media/verpiss-dik.3d50629d4c681b826e81.mp3",
     "static/media/was-machen-sachen.mp3": "./static/media/was-machen-sachen.4fd3e4903af9a29db682.mp3",
     "index.html": "./index.html",
     "main.5f83cefd.css.map": "./static/css/main.5f83cefd.css.map",
-    "main.8e22af1d.js.map": "./static/js/main.8e22af1d.js.map",
+    "main.22b33bf9.js.map": "./static/js/main.22b33bf9.js.map",
     "787.c1b0dde6.chunk.js.map": "./static/js/787.c1b0dde6.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.5f83cefd.css",
-    "static/js/main.8e22af1d.js"
+    "static/js/main.22b33bf9.js"
   ]
 }
