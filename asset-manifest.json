@@ -1,13 +1,14 @@
 {
   "files": {
     "main.css": "./static/css/main.5f83cefd.css",
-    "main.js": "./static/js/main.3017084f.js",
+    "main.js": "./static/js/main.8b4070a5.js",
     "static/js/787.c1b0dde6.chunk.js": "./static/js/787.c1b0dde6.chunk.js",
     "static/media/okay-lets-go.mp3": "./static/media/okay-lets-go.0b65f860e9b2dfff8d73.mp3",
     "static/media/its-friday.mp3": "./static/media/its-friday.4a22f809595a5763c922.mp3",
     "static/media/do-you-speak-germany.mp3": "./static/media/do-you-speak-germany.bf277ed02efc7a1dd34a.mp3",
     "static/media/spaghettie-carbonara.mp3": "./static/media/spaghettie-carbonara.1f43dca1fdd336ff34b5.mp3",
     "static/media/einer-ist-immer-der-loser.mp3": "./static/media/einer-ist-immer-der-loser.7cff3d69cc427e7ba059.mp3",
+    "static/media/wallah-krise.mp3": "./static/media/wallah-krise.de5d49b439384ff0eff5.mp3",
     "static/media/es_lassen.mp3": "./static/media/es_lassen.7af6bbf2dedcb467cc5a.mp3",
     "static/media/07-jeden-tag-cash.mp3": "./static/media/07-jeden-tag-cash.6f1082a02e097864bf57.mp3",
     "static/media/ski-urlaub-abgesagt.mp3": "./static/media/ski-urlaub-abgesagt.d24f569c863ced70d5cb.mp3",
@@ -91,11 +92,11 @@
     "static/media/was-machen-sachen.mp3": "./static/media/was-machen-sachen.4fd3e4903af9a29db682.mp3",
     "index.html": "./index.html",
     "main.5f83cefd.css.map": "./static/css/main.5f83cefd.css.map",
-    "main.3017084f.js.map": "./static/js/main.3017084f.js.map",
+    "main.8b4070a5.js.map": "./static/js/main.8b4070a5.js.map",
     "787.c1b0dde6.chunk.js.map": "./static/js/787.c1b0dde6.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.5f83cefd.css",
-    "static/js/main.3017084f.js"
+    "static/js/main.8b4070a5.js"
   ]
 }
