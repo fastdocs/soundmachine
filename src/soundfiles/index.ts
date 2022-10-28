@@ -178,6 +178,10 @@ const sounds: SoundCategory[] = [
 				file: getFile("misc/nuggets-verbrennen"),
 			},
 			{
+				title: "Wallah Krise!",
+				file: getFile("misc/wallah-krise"),
+			},
+			{
 				title: "Canabis reicht nicht",
 				file: getFile("misc/canabis-reicht-nicht"),
 			},
