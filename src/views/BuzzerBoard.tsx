@@ -1,63 +1,20 @@
 import { MagnifyingGlass, XCircle } from "phosphor-react";
-import { Fragment, useEffect, useState } from "react";
+import { Fragment, useEffect, useMemo, useState } from "react";
 import Buzzer from "../components/Buzzer";
-import sounds from "../soundfiles/index";
+import sounds, { Sounds } from "../soundfiles/index";
 
 function BuzzerBoard() {
 	let [search, setSearch] = useState("");
 
-	const searchForSound = () => {
-		const buttons = document.querySelectorAll(
-			'main button[data-name="buzzer"]'
-		);
-		const categoryTitles = document.querySelectorAll("main h2");
-
-		const hideAllButton = () => {
-			categoryTitles.forEach((categoryTitle) => {
-				const element = categoryTitle as HTMLButtonElement;
-				return (element.style.display = "none");
-			});
-
-			buttons.forEach((button) => {
-				const element = button as HTMLButtonElement;
-				return (element.style.display = "none");
-			});
-		};
-
-		const showAllButtons = () => {
-			categoryTitles.forEach((categoryTitle) => {
-				const element = categoryTitle as HTMLButtonElement;
-				return (element.style.display = "");
-			});
-
-			buttons.forEach((button) => {
-				const element = button as HTMLButtonElement;
-				return (element.style.display = "");
-			});
-		};
-
-		const showFilteredButtons = () => {
-			buttons.forEach((button) => {
-				const element = button as HTMLButtonElement;
-				const elementTitle = button.textContent;
-
-				if (elementTitle?.toLowerCase().includes(search.toLowerCase())) {
-					return (element.style.display = "");
-				}
-			});
-		};
-
-		if (search) {
-			hideAllButton();
-			return showFilteredButtons();
+	const filteredList = useMemo(() => {
+		if(search === ''){
+			return sounds;
 		}
+		const songNameIncludesPredicate = (soundObj: Sounds) => soundObj.title.toLowerCase().includes(search.toLocaleLowerCase());
+		return sounds
+			.filter((soundCategory) => soundCategory.sounds.some(songNameIncludesPredicate))
+			.map((soundCategory) => { return {...soundCategory, sounds: soundCategory.sounds.filter(songNameIncludesPredicate)}});
 
-		return showAllButtons();
-	};
-
-	useEffect(() => {
-		searchForSound();
-		// eslint-disable-next-line react-hooks/exhaustive-deps
 	}, [search]);
 
 	return (
@@ -90,7 +47,7 @@ function BuzzerBoard() {
 				</div>
 
 				<div className="grid md:grid-cols-2 lg:grid-cols-4 gap-4 p-4 lg:p-8">
-					{sounds.map((category, i) => {
+					{filteredList.map((category, i) => {
 						return (
 							<Fragment key={i}>
 								<h2 className="col-span-full font-bold text-slate-500 dark:text-slate-400 mt-4 first:mt-0">

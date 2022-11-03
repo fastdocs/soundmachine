@@ -5,7 +5,7 @@ type SoundCategory = {
 	sounds: Sounds[];
 };
 
-type Sounds = {
+export type Sounds = {
 	title: string;
 	file: void;
 };
