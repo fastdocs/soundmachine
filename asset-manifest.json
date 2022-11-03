@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "./static/css/main.5f83cefd.css",
-    "main.js": "./static/js/main.22b33bf9.js",
+    "main.js": "./static/js/main.951de6d5.js",
     "static/js/787.c1b0dde6.chunk.js": "./static/js/787.c1b0dde6.chunk.js",
     "static/media/okay-lets-go.mp3": "./static/media/okay-lets-go.0b65f860e9b2dfff8d73.mp3",
     "static/media/its-friday.mp3": "./static/media/its-friday.4a22f809595a5763c922.mp3",
@@ -75,6 +75,7 @@
     "static/media/ich_hab_ganis_gemakt.mp3": "./static/media/ich_hab_ganis_gemakt.a07e690aba9839743efd.mp3",
     "static/media/click-nice.mp3": "./static/media/click-nice.67ab95db52bc169670fe.mp3",
     "static/media/besser-zu-hause.mp3": "./static/media/besser-zu-hause.76856fa3d8418648a4d0.mp3",
+    "static/media/weiss-ich-nicht-diggah.mp3": "./static/media/weiss-ich-nicht-diggah.e79ffb0c646104a9e17c.mp3",
     "static/media/a-few-moments-later.mp3": "./static/media/a-few-moments-later.17e6caa9e009b79a998d.mp3",
     "static/media/ich-bin-der-uwe-ich-bin-auch-dabei.mp3": "./static/media/ich-bin-der-uwe-ich-bin-auch-dabei.7a48685545c81e5b1b92.mp3",
     "static/media/canabis-reicht-nicht.mp3": "./static/media/canabis-reicht-nicht.fd1281e86dfca9778c36.mp3",
@@ -92,11 +93,11 @@
     "static/media/was-machen-sachen.mp3": "./static/media/was-machen-sachen.4fd3e4903af9a29db682.mp3",
     "index.html": "./index.html",
     "main.5f83cefd.css.map": "./static/css/main.5f83cefd.css.map",
-    "main.22b33bf9.js.map": "./static/js/main.22b33bf9.js.map",
+    "main.951de6d5.js.map": "./static/js/main.951de6d5.js.map",
     "787.c1b0dde6.chunk.js.map": "./static/js/787.c1b0dde6.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.5f83cefd.css",
-    "static/js/main.22b33bf9.js"
+    "static/js/main.951de6d5.js"
   ]
 }
