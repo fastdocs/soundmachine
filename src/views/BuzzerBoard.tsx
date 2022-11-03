@@ -1,5 +1,5 @@
 import { MagnifyingGlass, XCircle } from "phosphor-react";
-import { Fragment, useEffect, useMemo, useState } from "react";
+import { Fragment, useMemo, useState } from "react";
 import Buzzer from "../components/Buzzer";
 import sounds, { Sounds } from "../soundfiles/index";
 
