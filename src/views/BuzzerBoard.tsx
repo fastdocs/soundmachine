@@ -1,21 +1,62 @@
 import { MagnifyingGlass, XCircle } from "phosphor-react";
-import { Fragment, useMemo, useState } from "react";
+import { Fragment, useEffect, useMemo, useState } from "react";
 import Buzzer from "../components/Buzzer";
-import sounds, { Sounds } from "../soundfiles/index";
+import sounds, { Sound } from "../soundfiles/index";
+
 
 function BuzzerBoard() {
 	let [search, setSearch] = useState("");
 
 	const filteredList = useMemo(() => {
-		if(search === ''){
+		if (search === '') {
 			return sounds;
 		}
-		const songNameIncludesPredicate = (soundObj: Sounds) => soundObj.title.toLowerCase().includes(search.toLocaleLowerCase());
+		const songNameIncludesPredicate = (soundObj: Sound) => soundObj.title.toLowerCase().includes(search.toLocaleLowerCase());
 		return sounds
 			.filter((soundCategory) => soundCategory.sounds.some(songNameIncludesPredicate))
-			.map((soundCategory) => { return {...soundCategory, sounds: soundCategory.sounds.filter(songNameIncludesPredicate)}});
+			.map((soundCategory) => { return { ...soundCategory, sounds: soundCategory.sounds.filter(songNameIncludesPredicate) } });
 
 	}, [search]);
+
+	let [currentAudio, setCurrentAudio] = useState<HTMLAudioElement | null>(null);
+	let [currentDuration, setCurrentDuration] = useState(0);
+	let [currentTime, setCurrentTime] = useState(0);
+
+	useEffect(() => {
+		if (!currentAudio) {
+			return
+		};
+		const setDuration = (evt: Event) => {
+			setCurrentDuration((evt.target as HTMLAudioElement).duration);
+			setCurrentTime(0);
+		}
+		const setTime = (evt: Event) => {
+			setCurrentTime((evt.target as HTMLAudioElement).currentTime);
+		}
+		const setEnded = () => {
+			setCurrentAudio(null);
+			setCurrentDuration(0);
+			setCurrentTime(0);
+		}
+		currentAudio.addEventListener('loadedmetadata', setDuration);
+		currentAudio.addEventListener('ended', setEnded);
+		currentAudio.addEventListener('timeupdate', setTime);
+		return () => {
+			currentAudio?.removeEventListener('loadedmetadata', setDuration);
+			currentAudio?.removeEventListener('ended', setEnded);
+			currentAudio?.removeEventListener('timeupdate', setTime);
+		}
+	}, [currentAudio]);
+
+	const playAudio = (sound: string) => {
+		if (currentAudio) {
+			currentAudio.pause();
+		}
+		const audio = new Audio(sound);
+		setCurrentAudio(audio);
+		audio.play();
+	};
+
 
 	return (
 		<>
@@ -44,6 +85,11 @@ function BuzzerBoard() {
 							<XCircle weight="fill" size={16} />
 						</button>
 					)}
+					{currentAudio && currentDuration > 0 && (
+						<div className="absolute inset-x-0 bottom-0 h-[2px]">
+							<div className="h-full bg-slate-500 dark:bg-slate-400 transition-all" style={{ width: `${(currentTime / currentDuration) * 100}%` }} />
+						</div>)}
+
 				</div>
 
 				<div className="grid md:grid-cols-2 lg:grid-cols-4 gap-4 p-4 lg:p-8">
@@ -59,6 +105,7 @@ function BuzzerBoard() {
 										<Buzzer
 											title={sound.title}
 											soundFile={sound.file}
+											onPlayAudio={playAudio}
 											key={i}
 										/>
 									);

@@ -2,12 +2,12 @@ import getFile from "../utility/getFile";
 
 type SoundCategory = {
 	title: string;
-	sounds: Sounds[];
+	sounds: Sound[];
 };
 
-export type Sounds = {
+export type Sound = {
 	title: string;
-	file: void;
+	file: string;
 };
 
 const sounds: SoundCategory[] = [
