@@ -186,6 +186,10 @@ const sounds: SoundCategory[] = [
 				file: getFile("misc/wallah-krise"),
 			},
 			{
+				title: "Sehen uns in der Hölle",
+				file: getFile("misc/sehen-uns-in-der-hoelle"),
+			},
+			{
 				title: "Canabis reicht nicht",
 				file: getFile("misc/canabis-reicht-nicht"),
 			},
