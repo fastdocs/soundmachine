@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "./static/css/main.3ed79171.css",
-    "main.js": "./static/js/main.2c7c42e9.js",
+    "main.js": "./static/js/main.6cc31f73.js",
     "static/js/787.c1b0dde6.chunk.js": "./static/js/787.c1b0dde6.chunk.js",
     "static/media/okay-lets-go.mp3": "./static/media/okay-lets-go.0b65f860e9b2dfff8d73.mp3",
     "static/media/its-friday.mp3": "./static/media/its-friday.4a22f809595a5763c922.mp3",
@@ -24,6 +24,7 @@
     "static/media/heyhey.mp3": "./static/media/heyhey.2679f192b824c2147661.mp3",
     "static/media/trollolol.mp3": "./static/media/trollolol.619214c9950c7c0b06e9.mp3",
     "static/media/WazUp.mp3": "./static/media/WazUp.f86f6abd19bfc1ad7615.mp3",
+    "static/media/genie-slomka.mp3": "./static/media/genie-slomka.a56de4b72d160ac58607.mp3",
     "static/media/woran-hats-gelegen.mp3": "./static/media/woran-hats-gelegen.3e833c3aa542a1bee029.mp3",
     "static/media/erbaermliches-paket.mp3": "./static/media/erbaermliches-paket.e158b284a743a1be2d37.mp3",
     "static/media/mission-impossible.mp3": "./static/media/mission-impossible.8cbc6acbac076943de59.mp3",
@@ -70,6 +71,7 @@
     "static/media/5G.mp3": "./static/media/5G.bc39d09e370380c325f5.mp3",
     "static/media/Son-zu-die.mp3": "./static/media/Son-zu-die.2de55ab0fcfec7a37c5c.mp3",
     "static/media/wer-wird-millionar.mp3": "./static/media/wer-wird-millionar.744433d0d4c4228ffc58.mp3",
+    "static/media/hackedicht.mp3": "./static/media/hackedicht.b373e82ef78d1a8334f1.mp3",
     "static/media/nicht-so-tief-rudiger.mp3": "./static/media/nicht-so-tief-rudiger.a463152315319e8bc73a.mp3",
     "static/media/09-mein-knecht.mp3": "./static/media/09-mein-knecht.6f631281f4e02bb786bb.mp3",
     "static/media/ich_hab_ganis_gemakt.mp3": "./static/media/ich_hab_ganis_gemakt.a07e690aba9839743efd.mp3",
@@ -81,6 +83,7 @@
     "static/media/sehen-uns-in-der-hoelle.mp3": "./static/media/sehen-uns-in-der-hoelle.02e165011fd15e28ba56.mp3",
     "static/media/canabis-reicht-nicht.mp3": "./static/media/canabis-reicht-nicht.fd1281e86dfca9778c36.mp3",
     "static/media/teamspeak-disconnect.mp3": "./static/media/teamspeak-disconnect.3353d9f927c203cb9182.mp3",
+    "static/media/liegt-an-uns.mp3": "./static/media/liegt-an-uns.31cb8f57702bdd06cbe9.mp3",
     "static/media/nein-doch-ohh.mp3": "./static/media/nein-doch-ohh.5d1bd14953185d1993d4.mp3",
     "static/media/computer-sagt-nein.mp3": "./static/media/computer-sagt-nein.ec88c40c13d4c3172dc8.mp3",
     "static/media/bomb-has-been-planted.mp3": "./static/media/bomb-has-been-planted.af0dc2abcbc363185b69.mp3",
@@ -92,13 +95,14 @@
     "static/media/wallah-krise.mp3": "./static/media/wallah-krise.a7918c900105caa187b7.mp3",
     "static/media/verpiss-dik.mp3": "./static/media/verpiss-dik.3d50629d4c681b826e81.mp3",
     "static/media/was-machen-sachen.mp3": "./static/media/was-machen-sachen.4fd3e4903af9a29db682.mp3",
+    "static/media/jorge-drei.mp3": "./static/media/jorge-drei.1d19b26dfb874f53a347.mp3",
     "index.html": "./index.html",
     "main.3ed79171.css.map": "./static/css/main.3ed79171.css.map",
-    "main.2c7c42e9.js.map": "./static/js/main.2c7c42e9.js.map",
+    "main.6cc31f73.js.map": "./static/js/main.6cc31f73.js.map",
     "787.c1b0dde6.chunk.js.map": "./static/js/787.c1b0dde6.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.3ed79171.css",
-    "static/js/main.2c7c42e9.js"
+    "static/js/main.6cc31f73.js"
   ]
 }
