@@ -174,8 +174,20 @@ const sounds: SoundCategory[] = [
 		title: "Misc",
 		sounds: [
 			{
+				title: "Hackedicht",
+				file: getFile("misc/hackedicht"),
+			},
+			{
 				title: "Weiß nicht Diggah",
 				file: getFile("misc/weiss-ich-nicht-diggah"),
+			},
+			{
+				title: "Drei",
+				file: getFile("misc/jorge-drei"),
+			},
+			{
+				title: "Liegt an uns",
+				file: getFile("misc/liegt-an-uns"),
 			},
 			{
 				title: "Meine Nuggets verbrennen",
