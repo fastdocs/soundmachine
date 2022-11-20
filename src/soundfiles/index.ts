@@ -168,6 +168,10 @@ const sounds: SoundCategory[] = [
 				title: "Woran hat et jelegen?",
 				file: getFile("fussball-misc/woran-hats-gelegen"),
 			},
+			{
+				title: "Genie Slomka",
+				file: getFile("fussball-misc/genie-slomka"),
+			},
 		],
 	},
 	{
