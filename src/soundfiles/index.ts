@@ -178,6 +178,10 @@ const sounds: SoundCategory[] = [
 		title: "Misc",
 		sounds: [
 			{
+				title: "Glücklicher Kunde",
+				file: getFile("misc/gluecklicher-kunde"),
+			},
+			{
 				title: "Hackedicht",
 				file: getFile("misc/hackedicht"),
 			},
@@ -397,36 +401,44 @@ const sounds: SoundCategory[] = [
 		title: "Robert",
 		sounds: [
 			{
+				title: "Mit dem Helli zur Party",
+				file: getFile("die-geissens/mit-dem-helli-zur-party"),
+			},
+			{
 				title: "Abitur",
-				file: getFile("robert-geiss/abitur"),
+				file: getFile("die-geissens/abitur"),
+			},
+			{
+				title: "Abitur",
+				file: getFile("die-geissens/abitur"),
 			},
 			{
 				title: "Ende aus",
-				file: getFile("robert-geiss/ende-aus-nikolaus"),
+				file: getFile("die-geissens/ende-aus-nikolaus"),
 			},
 			{
 				title: "Ernste Lage",
-				file: getFile("robert-geiss/ernste-lage"),
+				file: getFile("die-geissens/ernste-lage"),
 			},
 			{
 				title: "Ha, ha, ha",
-				file: getFile("robert-geiss/ha-ha-ha"),
+				file: getFile("die-geissens/ha-ha-ha"),
 			},
 			{
 				title: "Prost!",
-				file: getFile("robert-geiss/prost"),
+				file: getFile("die-geissens/prost"),
 			},
 			{
 				title: "Regeln befolgen!",
-				file: getFile("robert-geiss/regeln-befolgen"),
+				file: getFile("die-geissens/regeln-befolgen"),
 			},
 			{
 				title: "Ski-Urlaub abgesagt",
-				file: getFile("robert-geiss/ski-urlaub-abgesagt"),
+				file: getFile("die-geissens/ski-urlaub-abgesagt"),
 			},
 			{
 				title: "Spaghetti Carbonara",
-				file: getFile("robert-geiss/spaghettie-carbonara"),
+				file: getFile("die-geissens/spaghettie-carbonara"),
 			},
 		],
 	},
