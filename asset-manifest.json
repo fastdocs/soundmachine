@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "./static/css/main.e6f5b842.css",
-    "main.js": "./static/js/main.f2dc0f5c.js",
-    "static/js/787.c1b0dde6.chunk.js": "./static/js/787.c1b0dde6.chunk.js",
+    "main.css": "./static/css/main.33a7a65c.css",
+    "main.js": "./static/js/main.19467e94.js",
+    "static/js/453.5d192ea3.chunk.js": "./static/js/453.5d192ea3.chunk.js",
     "static/media/okay-lets-go.mp3": "./static/media/okay-lets-go.0b65f860e9b2dfff8d73.mp3",
     "static/media/its-friday.mp3": "./static/media/its-friday.4a22f809595a5763c922.mp3",
     "static/media/do-you-speak-germany.mp3": "./static/media/do-you-speak-germany.bf277ed02efc7a1dd34a.mp3",
@@ -100,12 +100,12 @@
     "static/media/was-machen-sachen.mp3": "./static/media/was-machen-sachen.4fd3e4903af9a29db682.mp3",
     "static/media/jorge-drei.mp3": "./static/media/jorge-drei.1d19b26dfb874f53a347.mp3",
     "index.html": "./index.html",
-    "main.e6f5b842.css.map": "./static/css/main.e6f5b842.css.map",
-    "main.f2dc0f5c.js.map": "./static/js/main.f2dc0f5c.js.map",
-    "787.c1b0dde6.chunk.js.map": "./static/js/787.c1b0dde6.chunk.js.map"
+    "main.33a7a65c.css.map": "./static/css/main.33a7a65c.css.map",
+    "main.19467e94.js.map": "./static/js/main.19467e94.js.map",
+    "453.5d192ea3.chunk.js.map": "./static/js/453.5d192ea3.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.e6f5b842.css",
-    "static/js/main.f2dc0f5c.js"
+    "static/css/main.33a7a65c.css",
+    "static/js/main.19467e94.js"
   ]
 }
