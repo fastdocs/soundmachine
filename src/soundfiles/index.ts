@@ -12,6 +12,23 @@ export type Sound = {
 
 const sounds: SoundCategory[] = [
 	{
+		title: "Stromberg",
+		sounds: [
+			{
+				title: "Manche Menschen",
+				file: getFile("stromberg/feierabend"),
+			},
+			{
+				title: "Musst	auch mit denen arbeiten",
+				file: getFile("stromberg/musst-auch-mit-denen-arbeiten"),
+			},
+			{
+				title: "Du bist ein Bastler",
+				file: getFile("stromberg/bastler"),
+			},
+		],
+	},
+	{
 		title: "LKW Ali",
 		sounds: [
 			{
