@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "./static/css/main.33a7a65c.css",
-    "main.js": "./static/js/main.19467e94.js",
+    "main.js": "./static/js/main.b13cf5a3.js",
     "static/js/453.5d192ea3.chunk.js": "./static/js/453.5d192ea3.chunk.js",
     "static/media/okay-lets-go.mp3": "./static/media/okay-lets-go.0b65f860e9b2dfff8d73.mp3",
     "static/media/its-friday.mp3": "./static/media/its-friday.4a22f809595a5763c922.mp3",
@@ -15,6 +15,7 @@
     "static/media/ski-urlaub-abgesagt.mp3": "./static/media/ski-urlaub-abgesagt.d24f569c863ced70d5cb.mp3",
     "static/media/lieber-saufen-als-arbeit.mp3": "./static/media/lieber-saufen-als-arbeit.80e0ef72f2eb5e439bd8.mp3",
     "static/media/erika.mp3": "./static/media/erika.cc8b8175f2ae9d4dd93a.mp3",
+    "static/media/bastler.mp3": "./static/media/bastler.b0da6d19e100101e7b1d.mp3",
     "static/media/i-doubt-it.mp3": "./static/media/i-doubt-it.c163c13d801894f67d7e.mp3",
     "static/media/nadine-geht-rauchen.mp3": "./static/media/nadine-geht-rauchen.1f1dc6d96cc7b4ca9623.mp3",
     "static/media/wartemusik-trompete.mp3": "./static/media/wartemusik-trompete.c2c954d78bf333eb98d4.mp3",
@@ -50,6 +51,7 @@
     "static/media/regeln-befolgen.mp3": "./static/media/regeln-befolgen.c767080b64fbae5d03a2.mp3",
     "static/media/kein-bandmass.mp3": "./static/media/kein-bandmass.de3267208a4f94fabf99.mp3",
     "static/media/fre-don-sam.mp3": "./static/media/fre-don-sam.a8fcca927bdeffc58733.mp3",
+    "static/media/musst-auch-mit-denen-arbeiten.mp3": "./static/media/musst-auch-mit-denen-arbeiten.71e41769229e773c9cc7.mp3",
     "static/media/08-dann-hab-ich-dich.mp3": "./static/media/08-dann-hab-ich-dich.95843dadf12f0824aaa4.mp3",
     "static/media/nuggets-verbrennen.mp3": "./static/media/nuggets-verbrennen.b0ab838d4c05b43e0833.mp3",
     "static/media/verstehen-sie.mp3": "./static/media/verstehen-sie.7be9986be0c23b532ee4.mp3",
@@ -62,6 +64,7 @@
     "static/media/02-ich-kauf-dir-ne-villa.mp3": "./static/media/02-ich-kauf-dir-ne-villa.d437851dc1a70b37d2bf.mp3",
     "static/media/ernste-lage.mp3": "./static/media/ernste-lage.d3dbbeb2661d3346c4c6.mp3",
     "static/media/01-ich-kauf-dich-einfach.mp3": "./static/media/01-ich-kauf-dich-einfach.487e7aa1563f5157feb2.mp3",
+    "static/media/feierabend.mp3": "./static/media/feierabend.df5d06891133acdc86e2.mp3",
     "static/media/zu-risiken-und-nebenwirkungen.mp3": "./static/media/zu-risiken-und-nebenwirkungen.e50757e10befa75ce923.mp3",
     "static/media/airportbell-cgn.mp3": "./static/media/airportbell-cgn.1041138270269884c897.mp3",
     "static/media/mon-zu-mit.mp3": "./static/media/mon-zu-mit.5d0164a41a2004a9948f.mp3",
@@ -101,11 +104,11 @@
     "static/media/jorge-drei.mp3": "./static/media/jorge-drei.1d19b26dfb874f53a347.mp3",
     "index.html": "./index.html",
     "main.33a7a65c.css.map": "./static/css/main.33a7a65c.css.map",
-    "main.19467e94.js.map": "./static/js/main.19467e94.js.map",
+    "main.b13cf5a3.js.map": "./static/js/main.b13cf5a3.js.map",
     "453.5d192ea3.chunk.js.map": "./static/js/453.5d192ea3.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.33a7a65c.css",
-    "static/js/main.19467e94.js"
+    "static/js/main.b13cf5a3.js"
   ]
 }
