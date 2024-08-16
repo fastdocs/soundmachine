@@ -26,6 +26,18 @@ const sounds: SoundCategory[] = [
 				title: "Du bist ein Bastler",
 				file: getFile("stromberg/bastler"),
 			},
+			{
+				title: "Typisch Deutsch",
+				file: getFile("stromberg/typisch-deutsch"),
+			},
+			{
+				title: "Stimmung",
+				file: getFile("stromberg/stimmung"),
+			},
+			{
+				title: "Fleppe",
+				file: getFile("stromberg/fleppe"),
+			},
 		],
 	},
 	{
