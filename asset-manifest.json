@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "./static/css/main.33a7a65c.css",
-    "main.js": "./static/js/main.b13cf5a3.js",
+    "main.js": "./static/js/main.b8a8c884.js",
     "static/js/453.5d192ea3.chunk.js": "./static/js/453.5d192ea3.chunk.js",
     "static/media/okay-lets-go.mp3": "./static/media/okay-lets-go.0b65f860e9b2dfff8d73.mp3",
     "static/media/its-friday.mp3": "./static/media/its-friday.4a22f809595a5763c922.mp3",
@@ -14,6 +14,7 @@
     "static/media/07-jeden-tag-cash.mp3": "./static/media/07-jeden-tag-cash.6f1082a02e097864bf57.mp3",
     "static/media/ski-urlaub-abgesagt.mp3": "./static/media/ski-urlaub-abgesagt.d24f569c863ced70d5cb.mp3",
     "static/media/lieber-saufen-als-arbeit.mp3": "./static/media/lieber-saufen-als-arbeit.80e0ef72f2eb5e439bd8.mp3",
+    "static/media/stimmung.mp3": "./static/media/stimmung.a0fea2e48888861af127.mp3",
     "static/media/erika.mp3": "./static/media/erika.cc8b8175f2ae9d4dd93a.mp3",
     "static/media/bastler.mp3": "./static/media/bastler.b0da6d19e100101e7b1d.mp3",
     "static/media/i-doubt-it.mp3": "./static/media/i-doubt-it.c163c13d801894f67d7e.mp3",
@@ -53,9 +54,11 @@
     "static/media/fre-don-sam.mp3": "./static/media/fre-don-sam.a8fcca927bdeffc58733.mp3",
     "static/media/musst-auch-mit-denen-arbeiten.mp3": "./static/media/musst-auch-mit-denen-arbeiten.71e41769229e773c9cc7.mp3",
     "static/media/08-dann-hab-ich-dich.mp3": "./static/media/08-dann-hab-ich-dich.95843dadf12f0824aaa4.mp3",
+    "static/media/typisch-deutsch.mp3": "./static/media/typisch-deutsch.2a2ef37ba01705fff0b1.mp3",
     "static/media/nuggets-verbrennen.mp3": "./static/media/nuggets-verbrennen.b0ab838d4c05b43e0833.mp3",
     "static/media/verstehen-sie.mp3": "./static/media/verstehen-sie.7be9986be0c23b532ee4.mp3",
     "static/media/heute-ruhig.mp3": "./static/media/heute-ruhig.0d313c303bedd63cbd8a.mp3",
+    "static/media/fleppe.mp3": "./static/media/fleppe.25b8b5a7c0dc51971a48.mp3",
     "static/media/ha-ha-ha.mp3": "./static/media/ha-ha-ha.83ff8f959a348c5f0b89.mp3",
     "static/media/abitur.mp3": "./static/media/abitur.072b8ddbed70ff1a8ca3.mp3",
     "static/media/angela-merkel-du-fresse.mp3": "./static/media/angela-merkel-du-fresse.871727a352f0c86aca1c.mp3",
@@ -104,11 +107,11 @@
     "static/media/jorge-drei.mp3": "./static/media/jorge-drei.1d19b26dfb874f53a347.mp3",
     "index.html": "./index.html",
     "main.33a7a65c.css.map": "./static/css/main.33a7a65c.css.map",
-    "main.b13cf5a3.js.map": "./static/js/main.b13cf5a3.js.map",
+    "main.b8a8c884.js.map": "./static/js/main.b8a8c884.js.map",
     "453.5d192ea3.chunk.js.map": "./static/js/453.5d192ea3.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.33a7a65c.css",
-    "static/js/main.b13cf5a3.js"
+    "static/js/main.b8a8c884.js"
   ]
 }
