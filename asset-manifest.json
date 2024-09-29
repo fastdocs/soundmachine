@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "./static/css/main.33a7a65c.css",
-    "main.js": "./static/js/main.b8a8c884.js",
+    "main.css": "./static/css/main.b1a2d3da.css",
+    "main.js": "./static/js/main.b7538caa.js",
     "static/js/453.5d192ea3.chunk.js": "./static/js/453.5d192ea3.chunk.js",
     "static/media/okay-lets-go.mp3": "./static/media/okay-lets-go.0b65f860e9b2dfff8d73.mp3",
     "static/media/its-friday.mp3": "./static/media/its-friday.4a22f809595a5763c922.mp3",
@@ -106,12 +106,12 @@
     "static/media/was-machen-sachen.mp3": "./static/media/was-machen-sachen.4fd3e4903af9a29db682.mp3",
     "static/media/jorge-drei.mp3": "./static/media/jorge-drei.1d19b26dfb874f53a347.mp3",
     "index.html": "./index.html",
-    "main.33a7a65c.css.map": "./static/css/main.33a7a65c.css.map",
-    "main.b8a8c884.js.map": "./static/js/main.b8a8c884.js.map",
+    "main.b1a2d3da.css.map": "./static/css/main.b1a2d3da.css.map",
+    "main.b7538caa.js.map": "./static/js/main.b7538caa.js.map",
     "453.5d192ea3.chunk.js.map": "./static/js/453.5d192ea3.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.33a7a65c.css",
-    "static/js/main.b8a8c884.js"
+    "static/css/main.b1a2d3da.css",
+    "static/js/main.b7538caa.js"
   ]
 }
